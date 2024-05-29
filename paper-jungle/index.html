@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2022-2024 Conference Papers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+        }
+        .note {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        h4 {
+            margin: 0px;
+            font-size: 14px;
+        }
+        .note-content {
+            margin: 3px 0px 10px 0px;
+            font-size: 14px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #000000;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #438ad7;
+        }
+        
+        .input-container {
+            position: relative;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            margin: 10px 0px 10px 0px;
+        }
+
+        .input-container input[type="text"] {
+            width: calc(50% - 20px);
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .input-container input[type="submit"],
+        .input-container button[type="reset"] {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .input-container input[type="submit"] {
+            margin-right: 10px;
+        }
+
+        .input-container input[type="submit"]:hover,
+        .input-container button[type="reset"]:hover {
+            background-color: #0056b3;
+        }
+
+        .paper {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .title {
+            font-weight: bold;
+        }
+        .authors {
+            color: #7e7e7e;
+            font-size: 14px;
+        }
+        .venue {
+            font-size: 14px;
+        }
+        .tag {
+            font-size: 12px;
+            font-weight: bold;
+            padding: 4px 8px;
+            border-radius: 4px;
+            color: #fff;
+        }
+        .conference-tag {
+            background-color: #28a745;
+            width: fit-content;
+        }
+        .workshop-tag {
+            background-color: #28c7f3;
+            width: fit-content;
+        }
+        .tog-tag {
+            background-color: #ffc107;
+            width: fit-content;
+        }
+
+        .spinner {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border: 5px solid #f3f3f3; /* Light grey */
+            border-top: 5px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="spinner" id="loadingSpinner"></div>
+
+    <h1>2022-2024 Conference Papers</h1>
+    <div class="note">
+    <h4>Year</h4>
+    <p class="note-content">2022~2024</p>
+    <h4>Venue</h4>
+    <p class="note-content">CVPR, ICCV, AAAI, ICML, ECCV, NIPS, ICLR, SIGGRAPH, SIGGRAPH Asia, BMVC, WACV</p>
+    <h4>Recommended Keywords</h4>
+    <p class="note-content">Face, Facial, Super-resolution, Blind image</p>
+    </div>
+
+    <div class="input-container">
+        <input type="text" id="titleFilter" placeholder="Filter by title...">
+        <input type="text" id="excludeFilter" placeholder="Exclude keywords...">
+        <input type="submit" value="Filter" id="filterButton">
+        <button type="reset" id="resetButton">Reset</button> 
+    </div>
+
+    <div id="papersList"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const titleFilterInput = document.getElementById('titleFilter');
+            const excludeFilterInput = document.getElementById('excludeFilter');
+            const filterButton = document.getElementById('filterButton');
+            const resetButton = document.getElementById('resetButton');
+            const papersList = document.getElementById('papersList');
+            let allPapers = []; // Variable to store all papers initially
+
+            const conferences = [
+                { venue: 'aaai', years: ['2022', '2023'], types: ['c']},
+                { venue: 'icml', years: ['2022', '2023'], types: ['c']},
+                { venue: 'bmvc', years: ['2022', '2023'], types: ['c']},
+                { venue: 'cvpr', years: ['2022', '2023', '2024'], types: ['c']},
+                { venue: 'eccv', years: ['2022'], types: ['c', 'w']},
+                { venue: 'iclr', years: ['2022', '2023'], types: ['c', 'w']},
+                { venue: 'nips', years: ['2022', '2023'], types: ['c']},
+                { venue: 'siggraph', years: ['2022', '2023'], types: ['c', 'tog']},
+                { venue: 'siggraphasia', years: ['2022', '2023'], types: ['c', 't']},
+                { venue: 'wacv', years: ['2022', '2023', '2024'], types: ['c', 'workshop']}
+                // Add more conferences and years as needed
+            ];
+
+            async function loadPapers(conference) {
+                const promises = conference.years.map(async year => {
+                    const conferenceFileName = `${conference.venue}_${year}_c.json`;
+                    const conferenceExists = await checkFileExists(conferenceFileName);
+                    const conferenceFilePromise = conferenceExists ? fetch(conferenceFileName).then(response => response.json()).then(data => data['data']) : [];
+
+                    const workshopFileName = `${conference.venue}_${year}_w.json`;
+                    const workshopExists = await checkFileExists(workshopFileName);
+                    const workshopFilePromise = workshopExists ? fetch(workshopFileName).then(response => response.json()).then(data => data['data']) : [];
+
+                    const togFileName = `${conference.venue}_${year}_t.json`;
+                    const togExists = await checkFileExists(togFileName);
+                    const togFilePromise = togExists ? fetch(togFileName).then(response => response.json()).then(data => data['data']) : [];
+
+                    const [conferencePapers, workshopPapers, togPapers] = await Promise.all([conferenceFilePromise, workshopFilePromise, togFilePromise]);
+
+                    return conferencePapers.map(paper => ({ ...paper, venue: conference.venue, year, type: 'conference' }))
+                        .concat(workshopPapers.map(paper => ({ ...paper, venue: conference.venue, year, type: 'workshop' })))
+                        .concat(togPapers.map(paper => ({ ...paper, venue: conference.venue, year, type: 'tog' })));
+            });
+
+            return Promise.all(promises).then(papersByYear => papersByYear.flat());
+        }
+
+            async function checkFileExists(fileName) {
+                try {
+                    const response = await fetch(fileName, { method: 'HEAD' });
+                    return response.ok;
+                } catch (error) {
+                    console.error(`Error checking file existence for ${fileName}:`, error);
+                    return false;
+                }
+            }
+
+            function renderPapers(papers) {
+                papersList.innerHTML = '';
+                Array.from(papers).forEach(paper => {
+                    const paperDiv = document.createElement('div');
+                    paperDiv.classList.add('paper');
+                    const tagClass = paper.type === 'conference' ? 'conference-tag' : (paper.type === 'workshop' ? 'workshop-tag' : 'tog-tag');
+                    const title = paper.title.endsWith('.') ? paper.title.slice(0, -1) : paper.title;
+                    paperDiv.innerHTML = `
+                        <div>
+                        <div style="width: fit-content; float: left;">
+                            <div class="tag ${tagClass}">${paper.type === 'conference' ? 'conference' : (paper.type === 'workshop' ? 'Workshop' : 'ToG')}</div>
+                        </div>
+                        <div style="margin-left: 100px;">
+                            <div class="title">${paper.doi !== "DOI not found" ? `<a href="${paper.doi}" target="_blank">${title}</a>` : title}</div>
+                            <div class="authors">${paper.authors.join(', ')}</div>
+                            <div class="venue">${paper.venue.toUpperCase()} ${paper.year}</div>
+                        </div>
+                        </div>
+                    `;
+                    papersList.appendChild(paperDiv);
+                });
+            }
+
+            function filterPapers() {
+                const titleQuery = titleFilterInput.value.toLowerCase();
+                const excludeQuery = excludeFilterInput.value.toLowerCase().split(',').map(item => item.trim());
+                const filteredPapers = allPapers.filter(paper => {
+                    const titleMatch = paper.title.toLowerCase().includes(titleQuery);
+                    const excludeMatch = excludeQuery.some(exclude => paper.title.toLowerCase().includes(exclude));
+                    return titleMatch && !excludeMatch;
+                });
+                renderPapers(filteredPapers);
+            }
+
+            function resetPapers() {
+                renderPapers(allPapers);
+                titleFilterInput.value = ''; 
+                excludeFilterInput.value = '';
+            }
+
+            function handleFilterButtonClick() {
+                filterPapers();
+            }
+
+            function handleKeyPress(event) {
+                if (event.key === 'Enter') {
+                    filterPapers();
+                }
+            }
+
+            filterButton.addEventListener('click', handleFilterButtonClick);
+            titleFilterInput.addEventListener('keypress', handleKeyPress);
+            resetButton.addEventListener('click', resetPapers); 
+
+            const loadingSpinner = document.getElementById('loadingSpinner');
+
+            Promise.all(conferences.map(loadPapers))
+                .then(papersByConference => {
+                    allPapers = papersByConference.flat();
+                    renderPapers(allPapers);
+                })
+                .catch(error => {
+                    console.error('Error loading papers:', error);
+                })
+                .finally(() => {
+                    // Hide the loading spinner when data loading is complete
+                    loadingSpinner.style.display = 'none';
+                });
+
+            // Show the loading spinner while data is being loaded
+            loadingSpinner.style.display = 'block';
+        });
+    </script>
+</body>
+</html>
+

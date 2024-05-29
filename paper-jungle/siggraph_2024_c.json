@@ -1,0 +1,237 @@
+{
+    "data": [
+    {
+        "title": "RGB ↔ X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models",
+        "authors": [
+            "Zheng Zeng",
+            "Valentin Deschaintre",
+            "Iliyan Georgiev",
+            "Yannick Hold-Geoffroy",
+            "Yiwei Hu",
+            "Fujun Luan",
+            "Lingqi Yan",
+            "Milos Hasan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Blue noise for diffusion models",
+        "authors": [
+            "Xingchang Huang",
+            "Corentin Salaun",
+            "Cristina Vasconcelos",
+            "Christian Theobalt",
+            "Cengiz Oztireli",
+            "Gurprit Singh"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Navigation-Driven Approximate Convex Decomposition",
+        "authors": [
+            "James Andrews"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Primal-Dual Non-Smooth Friction for Rigid Body Animation",
+        "authors": [
+            "Yi-Lu Chen",
+            "Mickael Ly",
+            "Chris Wojtan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Quad-Optimized Low-Discrepancy Sequences",
+        "authors": [
+            "Victor Ostromoukhov",
+            "Nicolas Bonneel",
+            "David Coeurjolly",
+            "Jean-Claude Iehl"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Mob-FGSR: Frame Generation and Super Resolution for Mobile Real-Time Rendering",
+        "authors": [
+            "Sipeng Yang",
+            "Qingchuan Zhu",
+            "Junhao Zhuge",
+            "Qiang Qiu",
+            "Chen Li",
+            "Yuzhong Yan",
+            "Huihui Xu",
+            "Ling-Qi Yan",
+            "Xiaogang Jin"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids",
+        "authors": [
+            "Junchen Liu",
+            "Wenbo Hu",
+            "Zhuo Yang",
+            "Jianteng Chen",
+            "Guoliang Wang",
+            "Xiaoxue Chen",
+            "Yantong Cai",
+            "Huan-ang Gao",
+            "Hao Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Velocity-Based Monte Carlo Fluids",
+        "authors": [
+            "Ryusuke Sugimoto",
+            "Christopher Batty",
+            "Toshiya Hachisuka"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Differential Monte Carlo Solver For the Poisson Equation",
+        "authors": [
+            "Zihan Yu",
+            "Lifan Wu",
+            "Zhiqian Zhou",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "NeRF As A Non-Distant Environment Emitter in Physics-Based Inverse Rendering",
+        "authors": [
+            "Jingwang Ling",
+            "Ruihan Yu",
+            "Feng Xu",
+            "Chun Du",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Path-Space Differentiable Rendering of Implicit Surfaces",
+        "authors": [
+            "Siwei Zhou",
+            "Youngha Chang",
+            "Nobuhiko Mukai",
+            "Hiroaki Santo",
+            "Fumio Okura",
+            "Yasuyuki Matsushita",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Practical Error Estimation for Denoised Monte Carlo Image Synthesis",
+        "authors": [
+            "Arthur Firmino",
+            "Ravi Ramamoorthi",
+            "Jeppe Revall Frisvad",
+            "Henrik Wann Jensen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Neural Geometry Fields For Meshes",
+        "authors": [
+            "Venkataram Sivaram",
+            "Ravi Ramamoorthi",
+            "Tzu-Mao Li"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose",
+        "authors": [
+            "Kaiwen Jiang",
+            "Yang Fu",
+            "Mukund Varma T",
+            "Yash Belhe",
+            "Xiaolong Wang",
+            "Hao Su",
+            "Ravi Ramamoorthi"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "N-BVH: Neural ray queries with bounding volume hierarchies",
+        "authors": [
+            "Philippe Weier",
+            "Alexander Rath",
+            "Elie Michel",
+            "Iliyan Georgiev",
+            "Philipp Slusallek",
+            "Tamy Boubekeur"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Self-Supervised Video Defocus Deblurring with Atlas Learning",
+        "authors": [
+            "Lingyan Ruan",
+            "Martin Balint",
+            "Mojtaba Bemana",
+            "Krzysztof Wolski",
+            "Hans-Peter Seidel",
+            "Karol Myszkowski",
+            "Bin Chen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Diffusion Texture Painting",
+        "authors": [
+            "Anita Hu",
+            "Nishkrit Desai",
+            "Hassan Abu Alhaija",
+            "Seung Wook Kim",
+            "Masha Shugrina"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Neural Bounding",
+        "authors": [
+            "Stephanie Wenxin Liu",
+            "Michael Fischer",
+            "Paul D. Yoo",
+            "Tobias Ritschel"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Fabricable 3D Wire Art",
+        "authors": [
+            "Kenji Tojo",
+            "Ariel Shamir",
+            "Bernd Bickel",
+            "Nobuyuki Umetani"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
+        "authors": [
+            "Stavros Diolatzis",
+            "Tobias Zirr",
+            "Alexandr Kuznetsov",
+            "Georgios Kopanas",
+            "Anton Kaplanyan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "SMEAR: Stylized Motion Exaggeration with ARt-direction",
+        "authors": [
+            "Jean Basset",
+            "Pierre Benard",
+            "Pascal Barla"
+        ],
+        "doi": "DOI not found"
+    }
+]
+}

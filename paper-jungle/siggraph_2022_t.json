@@ -1,0 +1,938 @@
+{
+    "data": [
+    {
+        "title": "Comparison of single image HDR reconstruction methods - the caveats of quality assessment.",
+        "authors": [
+            "Param Hanji",
+            "Rafal Mantiuk",
+            "Gabriel Eilertsen",
+            "Saghi Hajisharif",
+            "Jonas Unger"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530729"
+    },
+    {
+        "title": "Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections.",
+        "authors": [
+            "Xianghao Xu",
+            "Yifan Ruan",
+            "Srinath Sridhar",
+            "Daniel Ritchie"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530742"
+    },
+    {
+        "title": "Low-poly Mesh Generation for Building Models.",
+        "authors": [
+            "Xifeng Gao",
+            "Kui Wu",
+            "Zherong Pan"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530716"
+    },
+    {
+        "title": "Neural Layered BRDFs.",
+        "authors": [
+            "Jiahui Fan",
+            "Beibei Wang",
+            "Milos Hasan",
+            "Jian Yang",
+            "Ling-Qi Yan"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530732"
+    },
+    {
+        "title": "Node Graph Optimization Using Differentiable Proxies.",
+        "authors": [
+            "Yiwei Hu",
+            "Paul Guerrero",
+            "Milos Hasan",
+            "Holly E. Rushmeier",
+            "Valentin Deschaintre"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530733"
+    },
+    {
+        "title": "Go Green: General Regularized Green's Functions for Elasticity.",
+        "authors": [
+            "Jiong Chen",
+            "Mathieu Desbrun"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530726"
+    },
+    {
+        "title": "Diffeomorphic Neural Surface Parameterization for 3D and Reflectance Acquisition.",
+        "authors": [
+            "Ziang Cheng",
+            "Hongdong Li",
+            "Richard Hartley",
+            "Yinqiang Zheng",
+            "Imari Sato"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530741"
+    },
+    {
+        "title": "Neural Shadow Mapping.",
+        "authors": [
+            "Sayantan Datta",
+            "Derek Nowrouzezahrai",
+            "Christoph Schied",
+            "Zhao Dong"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530700"
+    },
+    {
+        "title": "Rendering Neural Materials on Curved Surfaces.",
+        "authors": [
+            "Alexandr Kuznetsov",
+            "Xuezheng Wang",
+            "Krishna Mullia",
+            "Fujun Luan",
+            "Zexiang Xu",
+            "Milos Hasan",
+            "Ravi Ramamoorthi"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530721"
+    },
+    {
+        "title": "Face Extrusion Quad Meshes.",
+        "authors": [
+            "Karran Pandey",
+            "Jakob Andreas Bærentzen",
+            "Karan Singh"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530754"
+    },
+    {
+        "title": "Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks.",
+        "authors": [
+            "Xiaoyu Pan",
+            "Jiaming Mai",
+            "Xinwei Jiang",
+            "Dongxue Tang",
+            "Jingxiang Li",
+            "Tianjia Shao",
+            "Kun Zhou",
+            "Xiaogang Jin",
+            "Dinesh Manocha"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530709"
+    },
+    {
+        "title": "Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning.",
+        "authors": [
+            "Yuxin Zhang",
+            "Fan Tang",
+            "Weiming Dong",
+            "Haibin Huang",
+            "Chongyang Ma",
+            "Tong-Yee Lee",
+            "Changsheng Xu"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530736"
+    },
+    {
+        "title": "Shoot360: Normal View Video Creation from City Panorama Footage.",
+        "authors": [
+            "Anyi Rao",
+            "Linning Xu",
+            "Dahua Lin"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530702"
+    },
+    {
+        "title": "Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images.",
+        "authors": [
+            "Yuxuan Han",
+            "Ruicheng Wang",
+            "Jiaolong Yang"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530755"
+    },
+    {
+        "title": "Palette: Image-to-Image Diffusion Models.",
+        "authors": [
+            "Chitwan Saharia",
+            "William Chan",
+            "Huiwen Chang",
+            "Chris A. Lee",
+            "Jonathan Ho",
+            "Tim Salimans",
+            "David J. Fleet",
+            "Mohammad Norouzi"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530757"
+    },
+    {
+        "title": "Self-Conditioned GANs for Image Editing.",
+        "authors": [
+            "Yunzhe Liu",
+            "Rinon Gal",
+            "Amit H. Bermano",
+            "Baoquan Chen",
+            "Daniel Cohen-Or"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530698"
+    },
+    {
+        "title": "A Theoretical Analysis of Compactness of the Light Transport Operator.",
+        "authors": [
+            "Cyril Soler",
+            "Ronak Molazem",
+            "Kartic Subr"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530725"
+    },
+    {
+        "title": "Self-Supervised Post-Correction for Monte Carlo Denoising.",
+        "authors": [
+            "Jonghee Back",
+            "Binh-Son Hua",
+            "Toshiya Hachisuka",
+            "Bochang Moon"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530730"
+    },
+    {
+        "title": "Symmetry-driven 3D Reconstruction from Concept Sketches.",
+        "authors": [
+            "Felix Hähnlein",
+            "Yulia Gryaditskaya",
+            "Alla Sheffer",
+            "Adrien Bousseau"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530723"
+    },
+    {
+        "title": "Stability-Aware Simplification of Curve Networks.",
+        "authors": [
+            "William Neveu",
+            "Ivan Puhachov",
+            "Bernhard Thomaszewski",
+            "Mikhail Bessmeltsev"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530711"
+    },
+    {
+        "title": "Designing Perceptual Puzzles by Differentiating Probabilistic Programs.",
+        "authors": [
+            "Kartik Chandra",
+            "Tzu-Mao Li",
+            "Joshua B. Tenenbaum",
+            "Jonathan Ragan-Kelley"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530715"
+    },
+    {
+        "title": "Generative GaitNet.",
+        "authors": [
+            "Jungnam Park",
+            "Sehee Min",
+            "Phil Sik Chang",
+            "Jaedong Lee",
+            "Moon Seok Park",
+            "Jehee Lee"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530717"
+    },
+    {
+        "title": "Deep Compliant Control.",
+        "authors": [
+            "Seunghwan Lee",
+            "Phil Sik Chang",
+            "Jehee Lee"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530719"
+    },
+    {
+        "title": "Learning to Brachiate via Simplified Model Imitation.",
+        "authors": [
+            "Daniele Reda",
+            "Hung Yu Ling",
+            "Michiel van de Panne"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530728"
+    },
+    {
+        "title": "Learning Soccer Juggling Skills with Layer-wise Mixture-of-Experts.",
+        "authors": [
+            "Zhaoming Xie",
+            "Sebastian Starke",
+            "Hung Yu Ling",
+            "Michiel van de Panne"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530735"
+    },
+    {
+        "title": "Neural 3D Reconstruction in the Wild.",
+        "authors": [
+            "Jiaming Sun",
+            "Xi Chen",
+            "Qianqian Wang",
+            "Zhengqi Li",
+            "Hadar Averbuch-Elor",
+            "Xiaowei Zhou",
+            "Noah Snavely"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530718"
+    },
+    {
+        "title": "ReLU Fields: The Little Non-linearity That Could.",
+        "authors": [
+            "Animesh Karnewar",
+            "Tobias Ritschel",
+            "Oliver Wang",
+            "Niloy J. Mitra"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530707"
+    },
+    {
+        "title": "Random Walks for Adversarial Meshes.",
+        "authors": [
+            "Amir Belder",
+            "Gal Yefet",
+            "Ran Ben Izhak",
+            "Ayellet Tal"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530710"
+    },
+    {
+        "title": "ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs.",
+        "authors": [
+            "Honghua Chen",
+            "Zeyong Wei",
+            "Yabin Xu",
+            "Mingqiang Wei",
+            "Jun Wang"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530744"
+    },
+    {
+        "title": "Möbius Convolutions for Spherical CNNs.",
+        "authors": [
+            "Thomas W. Mitchel",
+            "Noam Aigerman",
+            "Vladimir G. Kim",
+            "Michael Kazhdan"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530724"
+    },
+    {
+        "title": "Learning Smooth Neural Functions via Lipschitz Regularization.",
+        "authors": [
+            "Hsueh-Ti Derek Liu",
+            "Francis Williams",
+            "Alec Jacobson",
+            "Sanja Fidler",
+            "Or Litany"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530713"
+    },
+    {
+        "title": "Time-multiplexed Neural Holography: A Flexible Framework for Holographic Near-eye Displays with Fast Heavily-quantized Spatial Light Modulators.",
+        "authors": [
+            "Suyeon Choi",
+            "Manu Gopakumar",
+            "Yifan Peng",
+            "Jonghyun Kim",
+            "Matthew O'Toole",
+            "Gordon Wetzstein"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530734"
+    },
+    {
+        "title": "Holographic Glasses for Virtual Reality.",
+        "authors": [
+            "Jonghyun Kim",
+            "Manu Gopakumar",
+            "Suyeon Choi",
+            "Yifan Peng",
+            "Ward Lopes",
+            "Gordon Wetzstein"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530739"
+    },
+    {
+        "title": "Learning From Documents in the Wild to Improve Document Unwarping.",
+        "authors": [
+            "Ke Ma",
+            "Sagnik Das",
+            "Zhixin Shu",
+            "Dimitris Samaras"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530756"
+    },
+    {
+        "title": "Compact Poisson Filters for Fast Fluid Simulation.",
+        "authors": [
+            "Amir Hossein Rabbani",
+            "Jean-Philippe Guertin",
+            "Damien Rioux-Lavoie",
+            "Arnaud Schoentgen",
+            "Kaitai Tong",
+            "Alexandre Sirois-Vigneux",
+            "Derek Nowrouzezahrai"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530737"
+    },
+    {
+        "title": "GWA: A Large High-Quality Acoustic Dataset for Audio Processing.",
+        "authors": [
+            "Zhenyu Tang",
+            "Rohith Aralikatti",
+            "Anton Jeran Ratnarajah",
+            "Dinesh Manocha"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530731"
+    },
+    {
+        "title": "Analytically Integratable Zero-restlength Springs for Capturing Dynamic Modes unrepresented by Quasistatic Neural Networks.",
+        "authors": [
+            "Yongxu Jin",
+            "Yushan Han",
+            "Zhenglin Geng",
+            "Joseph Teran",
+            "Ronald Fedkiw"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530705"
+    },
+    {
+        "title": "Reconstructing Translucent Objects using Differentiable Rendering.",
+        "authors": [
+            "Xi Deng",
+            "Fujun Luan",
+            "Bruce Walter",
+            "Kavita Bala",
+            "Steve Marschner"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530714"
+    },
+    {
+        "title": "Eikonal Fields for Refractive Novel-View Synthesis.",
+        "authors": [
+            "Mojtaba Bemana",
+            "Karol Myszkowski",
+            "Jeppe Revall Frisvad",
+            "Hans-Peter Seidel",
+            "Tobias Ritschel"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530706"
+    },
+    {
+        "title": "NeuralPassthrough: Learned Real-Time View Synthesis for VR.",
+        "authors": [
+            "Lei Xiao",
+            "Salah Nouri",
+            "Joel Hegland",
+            "Alberto Garcia Garcia",
+            "Douglas Lanman"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530701"
+    },
+    {
+        "title": "Variable Bitrate Neural Fields.",
+        "authors": [
+            "Towaki Takikawa",
+            "Alex Evans",
+            "Jonathan Tremblay",
+            "Thomas Müller",
+            "Morgan McGuire",
+            "Alec Jacobson",
+            "Sanja Fidler"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530727"
+    },
+    {
+        "title": "α-Functions Piecewise-linear Approximation from Noisy and Hermite Data.",
+        "authors": [
+            "Marc Alexa"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530743"
+    },
+    {
+        "title": "Rendering Iridescent Rock Dove Neck Feathers.",
+        "authors": [
+            "Weizhen Huang",
+            "Sebastian Merzbach",
+            "Clara Callenberg",
+            "Doekele Stavenga",
+            "Matthias B. Hullin"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530749"
+    },
+    {
+        "title": "ShaderTransformer: Predicting Shader Quality via One-shot Embedding for Fast Simplification.",
+        "authors": [
+            "Yuchi Huo",
+            "Shi Li",
+            "Yazhen Yuan",
+            "Xu Chen",
+            "Rui Wang",
+            "Wenting Zheng",
+            "Hai Lin",
+            "Hujun Bao"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530722"
+    },
+    {
+        "title": "QuickPose: Real-time Multi-view Multi-person Pose Estimation in Crowded Scenes.",
+        "authors": [
+            "Zhize Zhou",
+            "Qing Shuai",
+            "Yize Wang",
+            "Qi Fang",
+            "Xiaopeng Ji",
+            "Fashuai Li",
+            "Hujun Bao",
+            "Xiaowei Zhou"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530746"
+    },
+    {
+        "title": "A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech.",
+        "authors": [
+            "Ikhsanul Habibie",
+            "Mohamed Elgharib",
+            "Kripasindhu Sarkar",
+            "Ahsan Abdullah",
+            "Simbarashe Nyatsanga",
+            "Michael Neff",
+            "Christian Theobalt"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530750"
+    },
+    {
+        "title": "Learning to Get Up.",
+        "authors": [
+            "Tianxin Tao",
+            "Matthew Wilson",
+            "Ruiyu Gou",
+            "Michiel van de Panne"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530697"
+    },
+    {
+        "title": "CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions.",
+        "authors": [
+            "Rameen Abdal",
+            "Peihao Zhu",
+            "John Femiani",
+            "Niloy J. Mitra",
+            "Peter Wonka"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530747"
+    },
+    {
+        "title": "StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets.",
+        "authors": [
+            "Axel Sauer",
+            "Katja Schwarz",
+            "Andreas Geiger"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530738"
+    },
+    {
+        "title": "Self-Distilled StyleGAN: Towards Generation from Internet Photos.",
+        "authors": [
+            "Ron Mokady",
+            "Omer Tov",
+            "Michal Yarom",
+            "Oran Lang",
+            "Inbar Mosseri",
+            "Tali Dekel",
+            "Daniel Cohen-Or",
+            "Michal Irani"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530708"
+    },
+    {
+        "title": "Perceptual Requirements for Eye-Tracked Distortion Correction in VR.",
+        "authors": [
+            "Phillip Guan",
+            "Olivier Mercier",
+            "Michael Shvartsman",
+            "Douglas Lanman"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530699"
+    },
+    {
+        "title": "LeviPrint: Contactless Fabrication using Full Acoustic Trapping of Elongated Parts.",
+        "authors": [
+            "Iñigo Fermín Ezcurdia",
+            "Rafael Morales",
+            "Marco A. B. Andrade",
+            "Asier Marzo"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530752"
+    },
+    {
+        "title": "CCP: Configurable Crowd Profiles.",
+        "authors": [
+            "Andreas Panayiotou",
+            "Theodoros Kyriakou",
+            "Marilena Lemonari",
+            "Yiorgos Chrysanthou",
+            "Panayiotis Charalambous"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530712"
+    },
+    {
+        "title": "Stroke Transfer: Example-based Synthesis of Animatable Stroke Styles.",
+        "authors": [
+            "Hideki Todo",
+            "Kunihiko Kobayashi",
+            "Jin Katsuragi",
+            "Haruna Shimotahira",
+            "Shizuo Kaji",
+            "Yonghao Yue"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530703"
+    },
+    {
+        "title": "MoRF: Morphable Radiance Fields for Multiview Neural Head Modeling.",
+        "authors": [
+            "Daoye Wang",
+            "Prashanth Chandran",
+            "Gaspard Zoss",
+            "Derek Bradley",
+            "Paulo F. U. Gotardo"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530753"
+    },
+    {
+        "title": "Drivable Volumetric Avatars using Texel-Aligned Features.",
+        "authors": [
+            "Edoardo Remelli",
+            "Timur M. Bagautdinov",
+            "Shunsuke Saito",
+            "Chenglei Wu",
+            "Tomas Simon",
+            "Shih-En Wei",
+            "Kaiwen Guo",
+            "Zhe Cao",
+            "Fabian Prada",
+            "Jason M. Saragih",
+            "Yaser Sheikh"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530740"
+    },
+    {
+        "title": "Novel View Synthesis of Human Interactions from Sparse Multi-view Videos.",
+        "authors": [
+            "Qing Shuai",
+            "Chen Geng",
+            "Qi Fang",
+            "Sida Peng",
+            "Wenhao Shen",
+            "Xiaowei Zhou",
+            "Hujun Bao"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530704"
+    },
+    {
+        "title": "VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting.",
+        "authors": [
+            "Feitong Tan",
+            "Sean Fanello",
+            "Abhimitra Meka",
+            "Sergio Orts-Escolano",
+            "Danhang Tang",
+            "Rohit Pandey",
+            "Jonathan Taylor",
+            "Ping Tan",
+            "Yinda Zhang"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530751"
+    },
+    {
+        "title": "Deep Deformable 3D Caricatures with Learned Shape Control.",
+        "authors": [
+            "Yucheol Jung",
+            "Wonjong Jang",
+            "Soongjin Kim",
+            "Jiaolong Yang",
+            "Xin Tong",
+            "Seungyong Lee"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530748"
+    },
+    {
+        "title": "Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal.",
+        "authors": [
+            "Ran Yi",
+            "Zipeng Ye",
+            "Ruoyu Fan",
+            "Yezhi Shu",
+            "Yong-Jin Liu",
+            "Yu-Kun Lai",
+            "Paul L. Rosin"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530720"
+    },
+    {
+        "title": "EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model.",
+        "authors": [
+            "Xinya Ji",
+            "Hang Zhou",
+            "Kaisiyuan Wang",
+            "Qianyi Wu",
+            "Wayne Wu",
+            "Feng Xu",
+            "Xun Cao"
+        ],
+        "doi": "https://doi.org/10.1145/3528233.3530745"
+    },
+    {
+        "title": "DSG-Net: Learning Disentangled Structure and Geometry for 3D Shape Generation",
+        "authors": [
+            "Jie Yang",
+            "Kaichun Mo",
+            "Yu-Kun Lai",
+            "Leonidas J. Guibas",
+            "Lin Gao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Practical Model for Realistic Butterfly Flight Simulation",
+        "authors": [
+            "Qiang Chen",
+            "Tingsong Lu",
+            "Yang Tong",
+            "Guoliang Luo",
+            "Xiaogang Jin",
+            "Zhigang Deng"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Dev2PQ: Planar Quadrilateral Strip Remeshing of Developable Surfaces",
+        "authors": [
+            "Floor Verhoeven",
+            "Amir Vaxman",
+            "Tim Hoffmann",
+            "Olga Sorkine-Hornung"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact",
+        "authors": [
+            "Yifei Li",
+            "Tao Du",
+            "Kui Wu",
+            "Jie Xu",
+            "Wojciech Matusik"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "DiffusionNet: Discretization Agnostic Learning on Surfaces",
+        "authors": [
+            "Nicholas Sharp",
+            "Souhaib Attaiki",
+            "Keenan Crane",
+            "Maks Ovsjanikov"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "HRBF-Fusion: Accurate 3D reconstruction from RGB-D data using on-the-fly implicits",
+        "authors": [
+            "Yabin Xu",
+            "Liangliang Nan",
+            "Laishui Zhou",
+            "Jun Wang",
+            "Charlie C.L. Wang"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "LookOut! Interactive Camera Gimbal Controller for Filming Long Takes",
+        "authors": [
+            "Mohamed Sayed",
+            "Robert Cinca",
+            "Enrico Costanza",
+            "Gabriel Brostow"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Motion Puzzle: Arbitrary Motion Style Transfer by Body Part",
+        "authors": [
+            "Deok-Kyeong Jang",
+            "Soomin Park",
+            "Sung-Hee Lee"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "TCB-Spline-Based Image Vectorization",
+        "authors": [
+            "Haikuan Zhu",
+            "Juan Cao",
+            "Yanyang Xiao",
+            "Zhonggui Chen",
+            "Zichun Zhong",
+            "Yongjie Jessica Zhang"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Tailored Reality: Perception-Aware Scene Restructuring for Adaptive VR Navigation",
+        "authors": [
+            "Zhi-Chao Dong",
+            "Wenming Wu",
+            "Zenghao Xu",
+            "Qi Sun",
+            "Guanjie Yuan",
+            "Ligang Liu",
+            "Xiao-Ming Fu"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Perceptual Error Optimization for Monte Carlo Rendering",
+        "authors": [
+            "Vassillen Chizhov",
+            "Iliyan Georgiev",
+            "Karol Myszkowski",
+            "Gurprit Singh"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Procedural Urban Forestry",
+        "authors": [
+            "Till Niese",
+            "Soren Pirk",
+            "Matthias Albrecht",
+            "Bedrich Benes",
+            "Oliver Deussen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Active Exploration for Neural Global Illumination of Variable Scenes",
+        "authors": [
+            "Stavros Diolatzis",
+            "Julien Philip",
+            "George Drettakis"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Constant-Cost Spatio-Angular Prefiltering of Glinty Appearance Using Tensor Decomposition",
+        "authors": [
+            "Hong Deng",
+            "Yang Liu",
+            "Beibei Wang",
+            "Jian Yang",
+            "Lei Ma",
+            "Nicolas Holzschuch",
+            "Ling-Qi Yan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Physics-Based Combustion Simulation",
+        "authors": [
+            "Michael B. Nielsen",
+            "Morten Bojsen-Hansen",
+            "Konstantinos Stamatelos",
+            "Robert Bridson"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Searching for Fast Demosaicking Algorithms",
+        "authors": [
+            "Karima Ma",
+            "Michael Gharbi",
+            "Andrew Adams",
+            "Shoaib Kamil",
+            "Tzu-Mao Li",
+            "Connelly Barnes",
+            "Jonathan Ragan-Kelley"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Hogel-free Holography",
+        "authors": [
+            "Praneeth Chakravarthula",
+            "Ethan Tseng",
+            "Henry Fuchs",
+            "Felix Heide"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Compact Representation of Measured BRDFs Using Neural Processes",
+        "authors": [
+            "Chuankun Zheng",
+            "Ruzhang Zheng",
+            "Rui Wang",
+            "Shuang Zhao",
+            "Hujun Bao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "An Efficient B-Spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids",
+        "authors": [
+            "Yadi Cao",
+            "Yunuo Chen",
+            "Minchen Li",
+            "Yin Yang",
+            "Xinxin Zhang Mridul Aanjaneya",
+            "Chenfanfu Jiang"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Optimal Dual Schemes for Adaptive Grid Based Hexmeshing",
+        "authors": [
+            "Marco Livesu",
+            "Luca Pitzalis",
+            "Gianmarco Cherchi"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Co-Optimization of Design and Fabrication Plans for Carpentry",
+        "authors": [
+            "Haisen Zhao",
+            "Max Willsey",
+            "Amy Zhu",
+            "Chandrakana Nandi",
+            "Zachary Tatlock",
+            "Justin Solomon",
+            "Adriana Schulz"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Computational Design of Knit Templates",
+        "authors": [
+            "Ben Jones",
+            "Yuxuan Mei",
+            "Haisen Zhao",
+            "Taylor Gotfrid",
+            "Jennifer Mankoff",
+            "Adriana Schulz"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Computational Mirror Cup and Saucer Art",
+        "authors": [
+            "Kang Wu",
+            "Renjie Chen",
+            "Xiao-Ming Fu",
+            "Ligang Liu"
+        ],
+        "doi": "DOI not found"
+    }
+]
+}

@@ -1,0 +1,1976 @@
+{
+    "data": [
+        {
+            "title": "Statistical Property Testing for Generative Models.",
+            "authors": [
+                "Emmanouil Seferis",
+                "Simon Burton",
+                "Chih-Hong Cheng"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Can Conformal Prediction Obtain Meaningful Safety Guarantees for ML Models?",
+            "authors": [
+                "Emmanouil Seferis",
+                "Simon Burton",
+                "Chih-Hong Cheng"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A two-parameter learnable Logmoid Activation Unit.",
+            "authors": [
+                "Xuemei Zhou",
+                "Lingfang Li",
+                "Xingzhou Zheng",
+                "Mingxing Luo"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Cross Domain Vulnerability Detection using Graph Contrastive Learning.",
+            "authors": [
+                "Mahmoud Zamani",
+                "Saquib Irtiza",
+                "Shamila Wickramasuriya",
+                "Latifur Khan",
+                "Kevin W. Hamlen"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Tiny Attention: A Simple yet Effective Method for Learning Contextual Word Embeddings.",
+            "authors": [
+                "Renjith P. Ravindran",
+                "Narayana Murthy Kavi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Training Data Eigenvector Dynamics in the EigenPro Implementation of the Neural Tangent Kernel and Recursive Feature Machines.",
+            "authors": [
+                "Cyril Gorlla"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Metric Transform: Exploring beyond Affine Transform for Neural Networks.",
+            "authors": [
+                "Suman Sapkota",
+                "Binod Bhattarai"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MaskedFusion360: Reconstruct LiDAR Data by Querying Camera Features.",
+            "authors": [
+                "Royden Wagner",
+                "Marvin Klemp",
+                "Carlos Fernandez Lopez"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Meta-Learning for Subject Adaptation in Low-Data Environments for EEG-Based Motor Imagery Brain-Computer Interfaces.",
+            "authors": [
+                "Arnav Pati",
+                "Deepak Mewada",
+                "Debasis Samanta"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fostering Effective Communication Between Humans and Machines.",
+            "authors": [
+                "Karthika Kamath",
+                "Tanya Upadhyay",
+                "Jieya Rawal",
+                "Kirtana Sunil Phatnani",
+                "Biju Dominic"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Transfer Learning on Kinyarwanda Tweets Sentiment Analysis.",
+            "authors": [
+                "Roger Byakunda"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Symbolic Regression in Financial Economics.",
+            "authors": [
+                "Jiacheng Liu",
+                "Siqi Guo"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "FRESCO: Federated Reinforcement Energy System for Cooperative Optimization.",
+            "authors": [
+                "Nicolas M. Cuadrado",
+                "Roberto Alejandro Gutiérrez Guillén",
+                "Martin Takác"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Learning Rotation-Agnostic Representations via Group Equivariant VAEs.",
+            "authors": [
+                "Ahmedeo Shokry",
+                "Antonio Norelli"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Can Text Encoders be Deceived by Length Attack?",
+            "authors": [
+                "Chenghao Xiao",
+                "Zihuiwen Ye",
+                "G. Thomas Hudson",
+                "Zhongtian Sun",
+                "Phil Blunsom",
+                "Noura Al Moubayed"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Whispering Across the Continent: Collecting and Analyzing African Culture Using Community Radios.",
+            "authors": [
+                "Joseph Domguia",
+                "Guy Adingono Nkama"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Handling unstructured data for operator learning using implicit neural representations.",
+            "authors": [
+                "Thomas X. Wang",
+                "Patrick Gallinari"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Model Extraction Attacks on DistilBERT.",
+            "authors": [
+                "Amro Salman",
+                "Ayman Saeed",
+                "Khalid N. Elmadani",
+                "Sharief Babiker"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "One Important Thing To Do Before Federated Training.",
+            "authors": [
+                "Yichu Xu",
+                "Wenqian Li",
+                "Yinchuan Li",
+                "Yunfeng Shao",
+                "Yan Pang",
+                "De-Chuan Zhan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Insights into the mechanism behind reusing Teacher's classifier in Knowledge Distillation.",
+            "authors": [
+                "Kinshuk Dua"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "When will federated learning transfer from generalization to personalization?",
+            "authors": [
+                "Wenxuan Liu",
+                "Lukun Wang",
+                "Jiaming Pei"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Change of Heart: Improving Speech Emotion Recognition through Speech-to-Text Modality Conversion.",
+            "authors": [
+                "Zeinab Sadat Taghavi",
+                "Ali Satvaty",
+                "Hossein Sameti"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fairness Under Partial Observability.",
+            "authors": [
+                "Islam Utyagulov",
+                "Francois Buet-Golfouse",
+                "Peter Hill"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Geodesic Mode Connectivity.",
+            "authors": [
+                "Charlie Tan",
+                "Theodore Long",
+                "Sarah Zhao",
+                "Rudolf Laine"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Pursuit Policies in Dynamic Environments.",
+            "authors": [
+                "Joseph L. Briones",
+                "Andréa W. Richa"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Resource-efficient image inpainting.",
+            "authors": [
+                "Dharshan Sampath Kumar",
+                "Pranav Jeevan",
+                "Amit Sethi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Recursive Reasoning with Neural Networks.",
+            "authors": [
+                "Jonas Jürß",
+                "Dulhan Hansaja Jayalath"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "SUDANESE ARABIC DIALECT ENCODING USING XLM-RoBERTa LANGUAGE MODEL: Zol-ROBERTA.",
+            "authors": [
+                "Duaa Badradein Alshareif",
+                "Taiseer Abdulateef Fadlalla",
+                "Muhammed Yahya Saeed",
+                "Hiba Hassan S. M. Ali"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Reducing the Effect of Incomplete Annotations in Object Detection for Histopathology.",
+            "authors": [
+                "Denys Kaliuzhnyi",
+                "Dmytro Fishman",
+                "Mikhail Papkov"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Experimenting with Multimodal AutoML: Detection and Evaluation of Alzheimer's Disease.",
+            "authors": [
+                "Ujjawal Shah",
+                "Saurav Keshari Aryal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "GFlowNets with Human Feedback.",
+            "authors": [
+                "Yinchuan Li",
+                "Shuang Luo",
+                "Yunfeng Shao",
+                "Jianye Hao"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Attention-likelihood relationship in Transformers.",
+            "authors": [
+                "Valeria Ruscio",
+                "Valentino Maiorca",
+                "Fabrizio Silvestri"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Truly Generative Data Augmentation for Image Segmentation - Case of Cloud Images.",
+            "authors": [
+                "Mayank Jain",
+                "Soumyabrata Dev"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fast Fourier Convolutions in Self-Supervised Neural Networks for Image Denoising.",
+            "authors": [
+                "Joonas Ariva",
+                "Mikhail Papkov"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Personalized Federated Learning for Medical Segmentation using Hypernetworks.",
+            "authors": [
+                "Hilit Segev",
+                "Gal Chechik"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Career Path Modeling and Recommendations with Linkedin Career Data and Predicted Salary Estimations.",
+            "authors": [
+                "Micaela Tayoto Cerilla",
+                "Aaron Santillan",
+                "Carl John Vinas",
+                "Michael B. Dela Fuente"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Sleep Deprivation in the Forward-Forward Algorithm.",
+            "authors": [
+                "Mircea Tudor Lica",
+                "David Dinucu-Jianu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MetaXLR - Mixed Language Meta Representation Transformation for Low-resource Cross-lingual Learning based on Multi-Armed Bandit.",
+            "authors": [
+                "Liat Bezalel",
+                "Eyal Orgad"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Prune and Tune: Improving Efficient Pruning Techniques for Massive Language Models.",
+            "authors": [
+                "Aaquib Syed",
+                "Phillip Huang Guo",
+                "Vijaykaarti Sundarapandiyan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Model Extraction Attacks on Arabic BERT-Based APIs.",
+            "authors": [
+                "Hassan Abbelkarim",
+                "Mohammed Eltahir",
+                "Khalid N. Elmadani",
+                "Anas Showk"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "IMITATION LEARNING USING THE FORWARD-FORWARD ALGORITHM.",
+            "authors": [
+                "Insik Chung",
+                "Isaac Han",
+                "Kyung-Joong Kim"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Geometry of Multilingual Language Models: An Equality Lens.",
+            "authors": [
+                "Cheril Shah",
+                "Yashashree Chandak",
+                "Manan Suri"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Dynamic Human AI Collaboration.",
+            "authors": [
+                "Parth Pahwa",
+                "Kabir Thakur",
+                "Francois Buet-Golfouse"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Responsibility Problem in Neural Networks with Unordered Targets.",
+            "authors": [
+                "Ben Hayes",
+                "Charalampos Saitis",
+                "György Fazekas"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Concept Understanding in Large Language Models: An Empirical Study.",
+            "authors": [
+                "Jiayi Liao",
+                "Xu Chen",
+                "Lun Du"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Adaptive Distance Message Passing From the Multi-Relational Edge View.",
+            "authors": [
+                "Zhongtian Sun",
+                "Alexandra I. Cristea",
+                "Pietro Lio",
+                "Jialin Yu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Sustainable Resource Management.",
+            "authors": [
+                "Nicholas William David Martin",
+                "Peter Hill",
+                "Ting Sheng Tan",
+                "Francois Buet-Golfouse"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Chain Of Thought Prompting Under Streaming Batch: A Case Study.",
+            "authors": [
+                "Yuxin Tang"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Language Models can do Zero-Shot Visual Referring Expression Comprehension.",
+            "authors": [
+                "Xiuchao Sui",
+                "Shaohua Li",
+                "Hong Yang",
+                "Hongyuan Zhu",
+                "Yan Wu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Simple Parameter-free Self-attention Approximation.",
+            "authors": [
+                "Yuwen Zhai",
+                "Jing Hao",
+                "Liang Gao",
+                "Xinyu Li",
+                "Yiping Gao",
+                "Shumin Han"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Neuromodulation Gated Transformer.",
+            "authors": [
+                "Kobe Knowles",
+                "Joshua Bensemann",
+                "Diana Benavides Prado",
+                "Vithya Yogarajan",
+                "Michael Witbrock",
+                "Gillian Dobbie",
+                "Yang Chen"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Decomposing Causality and Fairness.",
+            "authors": [
+                "Peter Hill",
+                "Francois Buet-Golfouse"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Self-Supervised Image Denoising with Swin Transformer.",
+            "authors": [
+                "Pavel Chizhov",
+                "Mikhail Papkov"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "SimbaML: Connecting Mechanistic Models and Machine Learning with Augmented Data.",
+            "authors": [
+                "Maximilian Kleissl",
+                "Lukas Drews",
+                "Benedict B. Heyder",
+                "Julian Zabbarov",
+                "Pascal Iversen",
+                "Simon Witzke",
+                "Bernhard Y. Renard",
+                "Katharina Baum"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "GeValDi: Generative Validation of Discriminative Models.",
+            "authors": [
+                "Vivek Palaniappan",
+                "Matthew Ashman",
+                "Katherine M. Collins",
+                "Juyeon Heo",
+                "Adrian Weller",
+                "Umang Bhatt"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Regularized Offline GFlowNets.",
+            "authors": [
+                "Haozhi Wang",
+                "Yunfeng Shao",
+                "Jianye Hao",
+                "Yinchuan Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Secure Communication Model for Quantum Federated Learning: A Proof of Concept.",
+            "authors": [
+                "Dev Gurung",
+                "Shiva Raj Pokhrel",
+                "Gang Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Learn to Select: Efficient Cross-device Federated Learning via Reinforcement Learning.",
+            "authors": [
+                "Chunlin Tian",
+                "Zhan Shi",
+                "Li Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge.",
+            "authors": [
+                "Qianqian Qi",
+                "Qiming Bao",
+                "Alex Yuxuan Peng",
+                "Jiamou Liu",
+                "Michael Witbrock"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MARKOVIAN EMBEDDINGS FOR COALITIONAL BARGAINING GAMES.",
+            "authors": [
+                "Lucia Cipolina-Kun"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Point to Which Soft Actor-Critic Converges.",
+            "authors": [
+                "Jianfei Ma"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "No Double Descent in Self-Supervised Learning.",
+            "authors": [
+                "Dulhan Hansaja Jayalath",
+                "Alisia Maria Lupidi",
+                "Yonatan Gideoni"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Resampling Gradients Vanish in Differentiable Sequential Monte Carlo Samplers.",
+            "authors": [
+                "Johannes Zenn",
+                "Robert Bamler"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Generalised Lookahead Optimiser.",
+            "authors": [
+                "Costin-Andrei Oncescu",
+                "Jack Valmadre",
+                "João F. Henriques"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Revisiting CounteRGAN for Counterfactual Explainability of Graphs.",
+            "authors": [
+                "Mario Alfonso Prado-Romero",
+                "Bardh Prenkaj",
+                "Giovanni Stilo"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Language Models Inversely Scale on Piecewise Function Evaluation with Biased Examples.",
+            "authors": [
+                "Bradley C. A. Brown",
+                "Jordan Juravsky",
+                "Atif Mahmud",
+                "Wais Shahbaz",
+                "Ryan Saul Ehrlich"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "RETHINKING POSITIONAL EMBEDDING: A CASE STUDY IN TEMPORAL EVENT SEQUENCE MODELLING.",
+            "authors": [
+                "Effat Farhana"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Exploring Efficient and Simple Initialization Strategies for Bayesian Optimization with SETUP-BO.",
+            "authors": [
+                "Seyed Ali YaghoubNejad",
+                "Mohammad Taghi Manzuri"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Quota Constraints for Diversity Interventions in Subset Selection.",
+            "authors": [
+                "Neeraja Abhyankar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Mitigating Metastable Failures in Distributed Systems with Offline Reinforcement Learning.",
+            "authors": [
+                "Yueying Li",
+                "Daochen Zha",
+                "Tianjun Zhang",
+                "G. Edward Suh",
+                "Christina Delimitrou",
+                "Francis Y. Yan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Knowledge Distillation of BERT Language Model on the Arabic Language.",
+            "authors": [
+                "Hager Adil",
+                "Abrar Elidrisi",
+                "Muhammed Saeed"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Offensiveness as an Opinion: Dissecting population-level Label Distributions.",
+            "authors": [
+                "Tharindu Cyril Weerasooriya",
+                "Sarah Luger",
+                "Yu Liang",
+                "Christopher M. Homan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "How do ConvNets Understand Image Intensity?",
+            "authors": [
+                "Jackson Kaunismaa",
+                "Michael Guerzhoy"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Learning Weight Sensitivity from Entropy.",
+            "authors": [
+                "Novena Agnes"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Study on Sample Diversity in Generative Models: GANs vs. Diffusion Models.",
+            "authors": [
+                "Reza Bayat"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Artificial Intelligent Life: A New Perspective on Artificial General Intelligence.",
+            "authors": [
+                "Borui Cai",
+                "Yong Xiang",
+                "Yao Zhao"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Generative AI for Therapy? Opportunities and Barriers for ChatGPT in Speech-Language Therapy.",
+            "authors": [
+                "Yao Du",
+                "Felix Juefei-Xu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Art of Embedding Fusion: Optimizing Hate Speech Detection.",
+            "authors": [
+                "Mohammad Aflah Khan",
+                "Neemesh Yadav",
+                "Mohit Jain",
+                "Sanyam Goyal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "COLLABORATIVE CONCEPT DRIFT DETECTION.",
+            "authors": [
+                "Beverly Abadines Quon",
+                "Jean-Luc Gaudiot"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "End-to-End Learnable Masks With Differentiable Indexing.",
+            "authors": [
+                "Dibyanshu Shekhar",
+                "Sree Harsha Nelaturu",
+                "Ashwath Shetty",
+                "Ilia Sucholutsky"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "FigGen: Text to Scientific Figure Generation.",
+            "authors": [
+                "Juan A. Rodriguez",
+                "David Vázquez",
+                "Issam H. Laradji",
+                "Marco Pedersoli",
+                "Pau Rodríguez"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Evaluating Impact of Emoticons and Pre-processing on Sentiment Classification of Translated African Tweets.",
+            "authors": [
+                "Saurav Keshari Aryal",
+                "Gaurav Adhikari"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "SoftEDA: Rethinking Rule-Based Data Augmentation with Soft Labels.",
+            "authors": [
+                "Juhwan Choi",
+                "Kyohoon Jin",
+                "Junho Lee",
+                "Sangmin Song",
+                "YoungBin Kim"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MatPropXtractor: Generate to Extract.",
+            "authors": [
+                "Aswathy Ajith",
+                "Marcus Schwarting",
+                "Zhi Hong",
+                "Kyle Chard",
+                "Ian T. Foster"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Zero-Shot Classification Reveals Potential Positive Sentiment Bias in African Languages Translations.",
+            "authors": [
+                "Hrishav Sapkota",
+                "Saurav Keshari Aryal",
+                "Howard Prioleau"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Lesion Search with Self-supervised Learning.",
+            "authors": [
+                "Kristin Qi",
+                "Jiali Cheng",
+                "Daniel Haehn"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Feature Importance Analysis for Mini Mental Status Score Prediction in Alzheimer's Disease.",
+            "authors": [
+                "Howard Prioleau",
+                "Saurav Keshari Aryal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "On a Relation Between the Rate-Distortion Function and Optimal Transport.",
+            "authors": [
+                "Eric Lei",
+                "Hamed Hassani",
+                "Shirin Saeedi Bidokhti"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Is CLIP Fooled by Optical Illusions?",
+            "authors": [
+                "Jerry Ngo",
+                "Swami Sankaranarayanan",
+                "Phillip Isola"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Seeing in Words: Learning to Classify through Language Bottlenecks.",
+            "authors": [
+                "Khalid Saifullah",
+                "Yuxin Wen",
+                "Jonas Geiping",
+                "Micah Goldblum",
+                "Tom Goldstein"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Towards Stochastic Gradient Variance Reduction by Solving a Filtering Problem.",
+            "authors": [
+                "Xingyi Yang"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MACHINE TRANSLATION BASELINES FOR ARABIC - SWAHILI.",
+            "authors": [
+                "Asim Awad Osman",
+                "Ahmed Emadeldin Almahady",
+                "Muhammed Saeed",
+                "Hiba Hassan Sayed"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Accuracy of white box and black box adversarial attacks on a sign activation 01 loss neural network ensemble.",
+            "authors": [
+                "Yunzhe Xue",
+                "Usman Roshan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "TopEx: Topic-based Explanations for Model Comparison.",
+            "authors": [
+                "Shreya Havaldar",
+                "Adam Stein",
+                "Eric Wong",
+                "Lyle H. Ungar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "GeneDAE: A Sparse Denoising Autoencoder for Deriving Interpretable Gene Embeddings.",
+            "authors": [
+                "Monica Isgut",
+                "Neha Jain",
+                "Andrew Hornback",
+                "Karan Samel",
+                "May Dongmei Wang"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Improving Hyperspectral Adversarial Robustness Under Multiple Attacks.",
+            "authors": [
+                "Nicholas Soucy",
+                "Salimeh Yasaei Sekeh"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Prompt Programming for the Visual Domain.",
+            "authors": [
+                "Alayt Issak",
+                "Lav R. Varshney"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Mapping the Typographic Latent Space of Digits.",
+            "authors": [
+                "Alayt Issak",
+                "Sarthak Kakkar",
+                "Sair Goetz",
+                "Nik Bear Brown",
+                "Casper Harteveld"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Hyperbolic Deep Reinforcement Learning for Continuous Control.",
+            "authors": [
+                "Omar Salemohamed",
+                "Edoardo Cetin",
+                "Sai Rajeswar",
+                "Arnab Kumar Mondal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Incorporating Expert Prior Knowledge for Oral Lesion Recognition.",
+            "authors": [
+                "Camille Besombes",
+                "Adeetya Patel",
+                "Sreenath Arekunnath Madathil"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "LEARNING LIGHTWEIGHT STRUCTURE-AWARE EMBEDDINGS FOR PROTEIN SEQUENCES.",
+            "authors": [
+                "Sidharth Lakshmanan",
+                "Philip J. Y. Leung",
+                "Jeffrey Nivala"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Proactive policing as reinforcement learning.",
+            "authors": [
+                "Dawson Kinsman",
+                "Tian An Wong"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Small Batch Size Anomaly in Multistep Deep Reinforcement Learning.",
+            "authors": [
+                "Johan Samir Obando-Ceron",
+                "Marc G. Bellemare",
+                "Pablo Samuel Castro"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Bootstrapping Parallel Anchors for Relative Representations.",
+            "authors": [
+                "Irene Cannistraci",
+                "Luca Moschella",
+                "Valentino Maiorca",
+                "Marco Fumero",
+                "Antonio Norelli",
+                "Emanuele Rodolà"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Brief History of the Speculative Measures for Autonomy.",
+            "authors": [
+                "Micah Tewers"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Semantic feature verification in FLAN-T5.",
+            "authors": [
+                "Siddharth Suresh",
+                "Kushin Mukherjee",
+                "Timothy T. Rogers"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Augmenting Collective Intelligence through Belbin's Team Roles.",
+            "authors": [
+                "Abhishek Gupta",
+                "Emily Dardaman"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Text2Face: 3D Morphable Faces From Text.",
+            "authors": [
+                "Will Rowan",
+                "Patrik Huber",
+                "Nick E. Pears",
+                "Andrew Keeling"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Towards Parametric Robust Activation Functions in Adversarial Machine Learning.",
+            "authors": [
+                "Sheila Alemany",
+                "Alberto Luis Dominguez",
+                "Ilan Grapel",
+                "Niki Pissinou"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Understanding Label Bias in Single Positive Multi-Label Learning.",
+            "authors": [
+                "Julio Arroyo",
+                "Pietro Perona",
+                "Elijah Cole"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Knowledge and Attitude of Medical Students and Doctors towards Artificial Intelligence: A study of University of Ilorin.",
+            "authors": [
+                "Abdulhameed Abiola Dere"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Human-machine cooperation for semantic feature listing.",
+            "authors": [
+                "Kushin Mukherjee",
+                "Siddharth Suresh",
+                "Timothy T. Rogers"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Improving generalization by loss modification.",
+            "authors": [
+                "Michael Tetelman"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Rate-Distortion View on Model Updates.",
+            "authors": [
+                "Nicole Mitchell",
+                "Johannes Ballé",
+                "Zachary Charles",
+                "Jakub Konecný"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Text-Based Games as a Challenging Benchmark for Large Language Models.",
+            "authors": [
+                "Qinyue Tan",
+                "Ashkan Kazemi",
+                "Rada Mihalcea"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Learned Learning Rate Schedules for Deep Neural Network Training Using Reinforcement Learning.",
+            "authors": [
+                "Shreyas Subramanian",
+                "Vignesh Ganapathiraman",
+                "Aly El Gamal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Speaker-Invariant Speech Recognition through Fine-Tuning on Individual-Specific Data with Voice Conversion.",
+            "authors": [
+                "Samin Heydarian",
+                "Tohid Abedini",
+                "Alireza Morsali",
+                "Moein Heidari"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Effect of training fragment length on Transformers in text complexity prediction.",
+            "authors": [
+                "Rafik Hachana",
+                "Vladimir V. Ivanov"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Revisiting Bisimulation: A Sampling-Based State Similarity Pseudo-metric.",
+            "authors": [
+                "Charline Le Lan",
+                "Rishabh Agarwal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Efficient Learning rate schedules for Stochastic Non-negative Matrix Factorization via Reinforcement Learning.",
+            "authors": [
+                "Shreyas Subramanian",
+                "Vignesh Ganapathiraman",
+                "Aly El Gamal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Chaotic Transformers for Deep Reinforcement Learning in Algorithmic Trading.",
+            "authors": [
+                "Tohid Abedini",
+                "Samin Heydarian",
+                "Moein Heidari",
+                "Alireza Morsali"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Effects of Single-Attribute Control on the Music Generated by FIGARO.",
+            "authors": [
+                "Rafik Hachana",
+                "Adil Khan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Iterative weakly supervised learning for novel class object detection.",
+            "authors": [
+                "Dejana Mandic",
+                "Wieland Brendel",
+                "Claudio Michaelis"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "BANDIT SAMPLING FOR FASTER NEURAL NETWORK TRAINING WITH SGD.",
+            "authors": [
+                "Vignesh Ganapathiraman",
+                "Francisco Javier Calderon",
+                "Anila Joshi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Train Monolingual, Infer Bilingual.",
+            "authors": [
+                "Alaeddin Selçuk Gürel",
+                "Aydin Gerek"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Simple, Fast Algorithm for Continual Learning from High-Dimensional Data.",
+            "authors": [
+                "Neil Ashtekar",
+                "Vasant G. Honavar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Discerning Self-Supervised Learning and Weakly Supervised Learning.",
+            "authors": [
+                "Chandan Kumar",
+                "Matthew J. Darr",
+                "Ali Jannesari"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "DiffGANPaint: Fast Inpainting Using Denoising Diffusion GANs.",
+            "authors": [
+                "Moein Heidari",
+                "Alireza Morsali",
+                "Tohid Abedini",
+                "Samin Heydarian"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Effectiveness of Debiasing Techniques: An Indigenous Qualitative Analysis.",
+            "authors": [
+                "Vithya Yogarajan",
+                "Gillian Dobbie",
+                "Henry Gouk"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "An Analysis of Transferability in Network Intrusion Detection using Distributed Deep Learning.",
+            "authors": [
+                "Shreya Ghosh",
+                "Abu Shafin Mohammad Mahdee Jameel",
+                "Aly El Gamal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "MLP-Attention: Improving Transformer Architecture with MLP Attention Weights.",
+            "authors": [
+                "Alireza Morsali",
+                "Moein Heidari",
+                "Samin Heydarian",
+                "Tohid Abedini"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Averager Student: Distillation from Undistillable Teacher.",
+            "authors": [
+                "Reyhan Kevser Keser",
+                "Behçet Ugur Töreyin"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Inducing Document Representations from Graphs: A Blueprint.",
+            "authors": [
+                "Boshko Koloski",
+                "Marko Pranjic",
+                "Nada Lavrac",
+                "Blaz Skrlj",
+                "Senja Pollak"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Uncertainty-Aware Test-Time Augmented Ensemble of BERTs for Classification of Common Mental Illnesses on Social Media Posts.",
+            "authors": [
+                "Pratinav Seth",
+                "Mihir Agarwal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Predicting Targets with Data from Non-Conforming Sources.",
+            "authors": [
+                "Alexander Capstick",
+                "Payam M. Barnaghi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "One Explanation Does Not Fit XIL.",
+            "authors": [
+                "Felix Friedrich",
+                "David Steinmann",
+                "Kristian Kersting"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fast Adversarial CNN-based Perturbation Attack on No-Reference Image- and Video-Quality Metrics.",
+            "authors": [
+                "Ekaterina Shumitskaya",
+                "Anastasia Antsiferova",
+                "Dmitriy S. Vatolin"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "GraphEx: A User-Centric Model-Level Explainer for Graph Neural Networks.",
+            "authors": [
+                "Sayan Saha",
+                "Monidipa Das",
+                "Sanghamitra Bandyopadhyay"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Theta sequences as eligibility traces: A biological solution to credit assignment.",
+            "authors": [
+                "Tom George"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Federated Learning with Variational Autoencoders.",
+            "authors": [
+                "Hugo Dugdale"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "TRACTABLE LARGE SCALE CALIBRATION WITH RL.",
+            "authors": [
+                "Fadel Thior",
+                "Rose Bandolo",
+                "Sekou Remy"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Variational Condition for Minimal-Residual Latent Representations.",
+            "authors": [
+                "Eloisa Bentivegna"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Attention Based Variational Graph Auto-Encoder (AVGAE).",
+            "authors": [
+                "Nevasini Sasikumar",
+                "Krishna Sri Ipsit Mantri"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Generative STResnet for Crime Prediction.",
+            "authors": [
+                "Tran Phong",
+                "Hoong Chuin Lau"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Light Spectrometer Device for Crop Disease Monitoring.",
+            "authors": [
+                "Joshua Jeremy Dhikusooka",
+                "Ephraim Nuwamanya",
+                "Estefania Talavera Martínez",
+                "Godliver Owomugisha"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Can Arterial Blood Pressure Predict Age? A ConvNet Classification Task.",
+            "authors": [
+                "Abdalrhman Mostafa",
+                "Nour-Mounira Z. Bakkar",
+                "Mohamed Abdelhack",
+                "Ahmed F. El-Yazbi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Pay Attention to Multi-Channel for Improving Graph Neural Networks.",
+            "authors": [
+                "ChungYi Lin",
+                "Shen-Lung Tung",
+                "Winston H. Hsu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "pGS-CAM: Interpretable LiDAR Point Cloud Semantic Segmentation via Gradient Based Localization.",
+            "authors": [
+                "Abhishek Kuriyal",
+                "Vaibhav Kumar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Large Language Models Perform Diagnostic Reasoning.",
+            "authors": [
+                "Cheng-Kuang Wu",
+                "Wei-Lin Chen",
+                "Hsin-Hsi Chen"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Simple Loss Function for Convergent Algorithm Synthesis using RNNs.",
+            "authors": [
+                "Alexandre Salle",
+                "Shervin Malmasi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Obscure Limitation of Modular Multilingual Language Models.",
+            "authors": [
+                "Muhammad Farid Adilazuarda",
+                "Samuel Cahyawijaya",
+                "Ayu Purwarianti"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Exploratory Analysis of Scholarly Publications on Artificial Intelligence (AI) in Colonoscopy using Litstudy.",
+            "authors": [
+                "Mary Adewunmi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Propagate Deeper and Adaptive Graph Convolutional Networks.",
+            "authors": [
+                "Sisi Zhang",
+                "Lun Du",
+                "Fan Li",
+                "Ge Yu",
+                "Mengyuan Chen"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "L2 Norm Guided Adaptive Computation.",
+            "authors": [
+                "Mani Shemiranifar",
+                "Mostafa Dehghani"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Efficient Temporal Denoising for Improved Depth Map Applications.",
+            "authors": [
+                "Pengzhi Li",
+                "Zhiheng Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "AI-based opportunistic analysis of the CT images during COVID (2021): Does living in a metropolitan area affect the vertebral body mineral density in older people?",
+            "authors": [
+                "Andrey V. Vlasov",
+                "Alexei V. Petraikin"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "One Student Knows All Experts Know: From Sparse to Dense.",
+            "authors": [
+                "Fuzhao Xue",
+                "Xiaoxin He",
+                "Xiaozhe Ren",
+                "Yuxuan Lou",
+                "Yang You"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "AN ENSEMBLE LEARNING FRAMEWORK FOR VISIBILITY PREDICTION IN INDO-GANGETIC REGION.",
+            "authors": [
+                "Arkapal Panda",
+                "Tanmay Basu",
+                "Vaibhav Kumar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Evolutionary Federated Learning Using Particle Swarm Optimization.",
+            "authors": [
+                "Ender Minyard",
+                "Steven Kolawole",
+                "Nayan Saxena"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Understanding the Effectiveness of Cross-Domain Contrastive Unsupervised Domain Adaptation.",
+            "authors": [
+                "Viacheslav Sinii",
+                "Adín Ramírez Rivera",
+                "Adil Khan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Performance Evaluation of Enhanced ConvNeXtTiny-based Fire Detection System in Real-world Scenarios.",
+            "authors": [
+                "Taimoor Khan",
+                "Haci Ismail Aslan",
+                "Chang Choi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Robustness Evaluation of Multi-Agent Reinforcement Learning Algorithms using GNAs.",
+            "authors": [
+                "Xusheng Zhang",
+                "Wei Zhang",
+                "Yishu Gong",
+                "Liangliang Yang",
+                "Jianyu Zhang",
+                "Zhengyu Chen",
+                "Sihong He"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "State Advantage Weighting for Offline RL.",
+            "authors": [
+                "Jiafei Lyu",
+                "Aicheng Gong",
+                "Le Wan",
+                "Zongqing Lu",
+                "Xiu Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Towards Robust Feature Learning with t-vFM Similarity for Continual Learning.",
+            "authors": [
+                "Bilan Gao",
+                "YoungBin Kim"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "When Biology has Chemistry: Solubility And Drug Subcategory Prediction using SMILES Strings.",
+            "authors": [
+                "Sarwan Ali",
+                "Prakash Chourasia",
+                "Murray Patterson"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Answering Questions Over Knowledge Graphs Using Logic Programming Along with Language Models.",
+            "authors": [
+                "Navid Madani",
+                "Kenneth Joseph"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Contrastive Training with more data.",
+            "authors": [
+                "Stephen Mander",
+                "Scott Piao",
+                "Hossein Rahmani"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Statistical Methods for Auditing the Quality of Manual Content Reviews.",
+            "authors": [
+                "Xuan Yang",
+                "Andrew Smart",
+                "Daniel Theron"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "ARTIFICIAL PSYCHOLOGY.",
+            "authors": [
+                "Mubarek Mohammed"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Automated Mapping of Healthcare Concepts to a Standardized Healthcare Taxonomy.",
+            "authors": [
+                "Sabbir Mollah",
+                "Mohammed Rakib",
+                "Nabeel Mohammed",
+                "Mashrur Wasek",
+                "AKM Shahariar Azad Rabby",
+                "Fuad Rahman"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "RepFair-GAN: Mitigating Representation Bias in GANs Using Gradient Clipping.",
+            "authors": [
+                "Kamil Sabbagh",
+                "Patrik Joslin Kenfack",
+                "Adín Ramírez Rivera",
+                "Adil Khan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Prior knowledge meets Neural ODEs: a two-stage training method for improved explainability.",
+            "authors": [
+                "C. Coelho",
+                "M. Fernanda P. Costa",
+                "Luis L. Ferrás"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Self-Supervised Continual Learning.",
+            "authors": [
+                "Kartik Thakral",
+                "Surbhi Mittal",
+                "Utkarsh Uppal",
+                "Bharat Giddwani",
+                "Mayank Vatsa",
+                "Richa Singh"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "When Spiking Neural Networks Meet Temporal Attention Image Decoding and Adaptive Spiking Neuron.",
+            "authors": [
+                "Xuerui Qiu",
+                "Zheng Luan",
+                "Zhaorui Wang",
+                "Rui-Jie Zhu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Characters Are Like Faces.",
+            "authors": [
+                "Haoyu Deng",
+                "Zhaoteng Ye",
+                "Yule Duan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "A Scalable Self-supervised Learner for Hyperspectral Image Classification.",
+            "authors": [
+                "Weili Kong",
+                "Lin Qi",
+                "Baisen Liu",
+                "Jiaming Pei"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Optimizing MPJPE promotes miscalibration in multi-hypothesis human pose lifting.",
+            "authors": [
+                "Pawel A. Pierzchlewicz",
+                "Mohammad Bashiri",
+                "R. James Cotton",
+                "Fabian H. Sinz"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Unsupervised Detection of Cell Assemblies with Graph Neural Networks.",
+            "authors": [
+                "Roman Koshkin",
+                "Tomoki Fukai"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Heat Up The Sentiment Learning With ICE.",
+            "authors": [
+                "Yao Yao",
+                "Zuchao Li",
+                "Hai Zhao"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Almost Sure Last Iterate Convergence of Sharpness-Aware Minimization.",
+            "authors": [
+                "Kyunghun Nam",
+                "Jinseok Chung",
+                "Namhoon Lee"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "On the application and impact of ε-DP and fairness in ambulance engagement time prediction.",
+            "authors": [
+                "Selene Cerna",
+                "Catuscia Palamidessi"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Adversarial Policy Gradient for Learning Graph-Based Representation in Human Visual Processing.",
+            "authors": [
+                "Subhrasankar Chatterjee",
+                "Subrata Pain",
+                "Debasis Samanta"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Federated Learning for Local and Global Data Distribution.",
+            "authors": [
+                "Gaurav Goswami",
+                "Akshay Agarwal",
+                "Nalini K. Ratha",
+                "Richa Singh",
+                "Mayank Vatsa"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Is DFR for Soft Biometrics Prediction in Unconstrained Images Fair and Effective?",
+            "authors": [
+                "Udaybhan Rathore",
+                "Akshay Agarwal"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Integrating Information from Natural Language Parse Tree to Code Generation.",
+            "authors": [
+                "Hung D. Phan",
+                "Ali Jannesari"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Pseudo Labels for Single Positive Multi-Label Learning.",
+            "authors": [
+                "Julio Arroyo"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Drowning Detection based on YOLOv8 improved by GP-GAN Augmentation.",
+            "authors": [
+                "En Wei",
+                "Simiao Ren"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Beyond Negativity: Re-Analysis and Follow-Up Experiments on Hope Speech Detection.",
+            "authors": [
+                "Neemesh Yadav",
+                "Mohammad Aflah Khan",
+                "Diksha Sethi",
+                "Raghav Sahni"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Group Equivariant Convolutional Networks.",
+            "authors": [
+                "Maya Janvier"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Exploring Semantic Variations in GAN Latent Spaces via Matrix Factorization.",
+            "authors": [
+                "Andrey Palaev",
+                "Rustam A. Lukmanov",
+                "Adil Khan"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "The Polarised Regime of identifiable Variational Autoencoders.",
+            "authors": [
+                "Lisa Bonheme",
+                "Marek Grzes"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Uni-Match: A Semantic Unified Model for Query-Product Retrieval.",
+            "authors": [
+                "Zhenyang Zhu",
+                "Rui-Jie Zhu",
+                "Yunrui Ge",
+                "Qihang Zhao"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Hierarchical Dialogue Understanding with Special Tokens and Turn-level Attention.",
+            "authors": [
+                "Xiao Liu",
+                "Jian Zhang",
+                "Heng Zhang",
+                "Fuzhao Xue",
+                "Yang You"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Large Sparse Kernels for Federated Learning.",
+            "authors": [
+                "Feilong Zhang",
+                "Yinchuan Li",
+                "Shiyi Lin",
+                "Yunfeng Shao",
+                "Junjun Jiang",
+                "Xianming Liu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Using vision transformer-based GANs against Vision Transformers.",
+            "authors": [
+                "Andrei Florin Pamînt",
+                "Sergiu Adrian Darabant"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Pivot Pre-finetuning for Low Resource MT: A Case Study in Kikamba.",
+            "authors": [
+                "Stephen Ngumbi Kiilu",
+                "Machel Reid"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Unsupervised Learning for Anomaly Detection: A Comparison of Deep Generative Models.",
+            "authors": [
+                "Kitgak Simon"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Bayes classifier cannot be learned from noisy responses with unknown noise rates.",
+            "authors": [
+                "Soham Bakshi",
+                "Subha Maity"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Contrastive Learning with 3D Shapes.",
+            "authors": [
+                "Andrea Bernini"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Adaptive-saturated RNN: Remember more with less instability.",
+            "authors": [
+                "Khoi Minh Nguyen-Duy",
+                "Quang Pham",
+                "Binh T. Nguyen"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Stratospheric Aerosols: Establishing a Novel Optical Thickness Benchmark for Effective Climate Change Mitigation.",
+            "authors": [
+                "Mihir Garimella"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "CausalStructCodec: Causally-aware observational and interventional data generator.",
+            "authors": [
+                "Louis Hernandez",
+                "Matthieu Boussard"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Semantic Similarity Based Label Augmentation for Visual Classification.",
+            "authors": [
+                "Yu Cao"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Prompt Engineering and Calibration for Zero-Shot Commonsense Reasoning.",
+            "authors": [
+                "Chenkai Ma"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fidelity of Interpretability Methods and Perturbation Artifacts in Neural Networks.",
+            "authors": [
+                "Lennart Brocki",
+                "Neo Christopher Chung"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "EDCDE - Extended Discovery of Closed-Form Differential Equations.",
+            "authors": [
+                "Robert Joseph George"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Synthetic Controls as Balancing Scores.",
+            "authors": [
+                "Harsh Parikh"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Clustered Federated Learning with Slightly Skewed Labels.",
+            "authors": [
+                "Jiaming Pei",
+                "Wei Li"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Fusing 3D-CNN and lightweight Swin Transformer networks for HSI.",
+            "authors": [
+                "Baisen Liu",
+                "Yuanjia Liu",
+                "Wulin Zhang",
+                "Yiran Tian"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Compound Tokens: Channel Fusion for Vision-Language Representation Learning.",
+            "authors": [
+                "Maxwell Mbabilla Aladago",
+                "A. J. Piergiovanni"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Message-passing Selection: Towards Interpretable GNNs for Graph Classification.",
+            "authors": [
+                "Wenda Li",
+                "Kaixuan Chen",
+                "Shunyu Liu",
+                "Wenjie Huang",
+                "Haofei Zhang",
+                "Mingli Song",
+                "Yingjie Tian",
+                "Yun Su"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Multi-Agent Reinforcement Learning for Coalitional Bargaining Games.",
+            "authors": [
+                "Lucia Cipolina-Kun",
+                "Stephen Mak",
+                "Ignacio Carlucho",
+                "Vahid Yazdanpanah",
+                "Sebastian Stein",
+                "Enrico H. Gerding",
+                "Kalesha Bullard"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Astroformer: More Data might not be all you need for Classification.",
+            "authors": [
+                "Rishit Dagli"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Error Analysis of Fitted Q-iteration with ReLU-activated Deep Neural Networks.",
+            "authors": [
+                "Lican Kang",
+                "Han Yuan",
+                "Chang Zhu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "General Purpose Artificial Intelligence Systems as Group Agents.",
+            "authors": [
+                "Matija Franklin"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "An Empirical Study of the Effect of Background Data Size on the Stability of SHapley Additive exPlanations (SHAP) for Deep Learning Models.",
+            "authors": [
+                "Han Yuan",
+                "Mingxuan Liu",
+                "Lican Kang",
+                "Chenkui Miao",
+                "Ying Wu"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Interpretable Machine Learning-Based Risk Scoring with Individual and Ensemble Model Selection for Clinical Decision Making.",
+            "authors": [
+                "Han Yuan",
+                "Jin Wee Lee",
+                "Mingxuan Liu",
+                "Siqi Li",
+                "Chenglin Niu",
+                "Jun Wen",
+                "Feng Xie"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Analytical solutions for a family of single layer neural network regression problems.",
+            "authors": [
+                "Siddharth Krishna Kumar"
+            ],
+            "doi": "DOI not found"
+        },
+        {
+            "title": "Pretrained Vision Models for Predicting High-Risk Breast Cancer Stage.",
+            "authors": [
+                "Bonaventure F. P. Dossou",
+                "Yenoukoume S. K. Gbenou",
+                "Miglanche Ghomsi Nono"
+            ],
+            "doi": "DOI not found"
+        }
+    ]
+}

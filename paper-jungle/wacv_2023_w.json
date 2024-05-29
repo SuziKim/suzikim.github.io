@@ -1,0 +1,871 @@
+{
+    "data": [
+        {
+            "title": "Meet-in-the-middle: Multi-scale upsampling and matching for cross-resolution face recognition.",
+            "authors": [
+                "Klemen Grm",
+                "Berk Kemal Özata",
+                "Vitomir Struc",
+                "Hazim Kemal Ekenel"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00017"
+        },
+        {
+            "title": "The Gender Gap in Face Recognition Accuracy Is a Hairy Problem.",
+            "authors": [
+                "Aman Bhatta",
+                "Vítor Albiero",
+                "Kevin W. Bowyer",
+                "Michael C. King"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00034"
+        },
+        {
+            "title": "Detecting Arbitrary Keypoints on Limbs and Skis with Sparse Partly Correct Segmentation Masks.",
+            "authors": [
+                "Katja Ludwig",
+                "Daniel Kienzle",
+                "Julian Lorenz",
+                "Rainer Lienhart"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00051"
+        },
+        {
+            "title": "Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild.",
+            "authors": [
+                "HyunHee Chung",
+                "Kyung Ho Park",
+                "Taewon Seo",
+                "Sungwoo Cho"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00049"
+        },
+        {
+            "title": "RarePlanes Soar Higher: Self-Supervised Pretraining for Resource Constrained and Synthetic Datasets.",
+            "authors": [
+                "Justin Downes",
+                "Will Gleave",
+                "Dan Nakada"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00041"
+        },
+        {
+            "title": "Multi-view Target Transformation for Pedestrian Detection.",
+            "authors": [
+                "Wei-Yu Lee",
+                "Ljubomir Jovanov",
+                "Wilfried Philips"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00014"
+        },
+        {
+            "title": "Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization.",
+            "authors": [
+                "Shakeeb Murtaza",
+                "Soufiane Belharbi",
+                "Marco Pedersoli",
+                "Aydin Sarraf",
+                "Eric Granger"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00021"
+        },
+        {
+            "title": "Knowledge-based Visual Context-Aware Framework for Applications in Robotic Services.",
+            "authors": [
+                "Doosoo Chang",
+                "Bohyung Han"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00012"
+        },
+        {
+            "title": "Exploiting Temporal Context for Tiny Object Detection.",
+            "authors": [
+                "Christof W. Corsel",
+                "Michel van Lier",
+                "Leo Kampmeijer",
+                "Nicolas Boehrer",
+                "Erwin M. Bakker"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00013"
+        },
+        {
+            "title": "Hand Guided High Resolution Feature Enhancement for Fine-Grained Atomic Action Segmentation within Complex Human Assemblies.",
+            "authors": [
+                "Matthew Kent Myers",
+                "Nick Wright",
+                "A. Stephen McGough",
+                "Nicholas G. Martin"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00052"
+        },
+        {
+            "title": "On the Importance of Spatio-Temporal Learning for Video Quality Assessment.",
+            "authors": [
+                "Dario Fontanel",
+                "David Higham",
+                "Benoit Quentin Arthur Vallade"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00053"
+        },
+        {
+            "title": "Mixture Domain Adaptation to Improve Semantic Segmentation in Real-World Surveillance.",
+            "authors": [
+                "Sébastien Piérard",
+                "Anthony Cioppa",
+                "Anaïs Halin",
+                "Renaud Vandeghen",
+                "Maxime Zanella",
+                "Benoît Macq",
+                "Saïd Mahmoudi",
+                "Marc Van Droogenbroeck"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00007"
+        },
+        {
+            "title": "Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities.",
+            "authors": [
+                "Fabian Herzog",
+                "Junpeng Chen",
+                "Torben Teepe",
+                "Johannes Gilg",
+                "Stefan Hörmann",
+                "Gerhard Rigoll"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00005"
+        },
+        {
+            "title": "A Transformer-based Late-Fusion Mechanism for Fine-Grained Object Recognition in Videos.",
+            "authors": [
+                "Jannik Koch",
+                "Stefan Wolf",
+                "Jürgen Beyerer"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00015"
+        },
+        {
+            "title": "Multimodal Data Augmentation for Visual-Infrared Person ReID with Corrupted Data.",
+            "authors": [
+                "Arthur Josi",
+                "Mahdi Alehdaghi",
+                "Rafael M. O. Cruz",
+                "Eric Granger"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00008"
+        },
+        {
+            "title": "Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification.",
+            "authors": [
+                "Jiachen Li",
+                "Menglin Wang",
+                "Xiaojin Gong"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00009"
+        },
+        {
+            "title": "Learning Pairwise Interaction for Generalizable DeepFake Detection.",
+            "authors": [
+                "Ying Xu",
+                "Kiran B. Raja",
+                "Luisa Verdoliva",
+                "Marius Pedersen"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00074"
+        },
+        {
+            "title": "Explainable Model-Agnostic Similarity and Confidence in Face Verification.",
+            "authors": [
+                "Martin Knoche",
+                "Torben Teepe",
+                "Stefan Hörmann",
+                "Gerhard Rigoll"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00078"
+        },
+        {
+            "title": "VDiSC: An Open Source Framework for Distributed Smart City Vision and Biometric Surveillance Networks.",
+            "authors": [
+                "Joel Brogan",
+                "Nell Barber",
+                "David Cornett III",
+                "David S. Bolme"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00020"
+        },
+        {
+            "title": "Exploiting Inter-pixel Correlations in Unsupervised Domain Adaptation for Semantic Segmentation.",
+            "authors": [
+                "Inseop Chung",
+                "Jayeon Yoo",
+                "Nojun Kwak"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00006"
+        },
+        {
+            "title": "EMOD: Efficient Moving Object Detection via Image Eccentricity Analysis and Sparse Neural Networks.",
+            "authors": [
+                "Xiaomin Li",
+                "Ramin Nabati",
+                "Kunjan Singh",
+                "Enrique Corona",
+                "Vangelis Metsis",
+                "Armin Parchami"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00010"
+        },
+        {
+            "title": "Low-Resolution Thermal Sensor-Guided Image Synthesis.",
+            "authors": [
+                "Sheng-Yang Chiu",
+                "Yu-Chee Tseng",
+                "Jen-Jee Chen"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00011"
+        },
+        {
+            "title": "Bringing Generalization to Deep Multi-View Pedestrian Detection.",
+            "authors": [
+                "Jeet Vora",
+                "Swetanjal Dutta",
+                "Kanishk Jain",
+                "Shyamgopal Karthik",
+                "Vineet Gandhi"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00016"
+        },
+        {
+            "title": "ThermalSynth: A Novel Approach for Generating Synthetic Thermal Human Scenarios.",
+            "authors": [
+                "Neelu Madan",
+                "Mia Sandra Nicole Siemon",
+                "Magnus Kaufmann Gjerde",
+                "Bastian Starup Petersson",
+                "Arijus Grotuzas",
+                "Malthe Aaholm Esbensen",
+                "Ivan Adriyanov Nikolov",
+                "Mark Philip Philipsen",
+                "Kamal Nasrollahi",
+                "Thomas B. Moeslund"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00018"
+        },
+        {
+            "title": "An Automated and Scalable ML Solution for Mapping Invasive Species: the Case of the Australian Tree Fern in Hawaiian Forests.",
+            "authors": [
+                "Ovidiu Dan Iancu",
+                "Kara Yang",
+                "Han Man",
+                "Theresa Cabrera Menard"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00019"
+        },
+        {
+            "title": "UPAR Challenge: Pedestrian Attribute Recognition and Attribute-based Person Retrieval - Dataset, Design, and Results.",
+            "authors": [
+                "Mickael Cormier",
+                "Andreas Specker",
+                "Júlio C. S. Jacques Júnior",
+                "Lucas Florin",
+                "Jürgen Metzler",
+                "Thomas B. Moeslund",
+                "Kamal Nasrollahi",
+                "Sergio Escalera",
+                "Jürgen Beyerer"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00022"
+        },
+        {
+            "title": "Improving the Detection of Small Oriented Objects in Aerial Images.",
+            "authors": [
+                "Chandler Timm C. Doloriel",
+                "Rhandley Domingo Cajote"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00023"
+        },
+        {
+            "title": "Combining Photogrammetric Computer Vision and Semantic Segmentation for Fine-grained Understanding of Coral Reef Growth under Climate Change.",
+            "authors": [
+                "Jiageng Zhong",
+                "Ming Li",
+                "Hanqi Zhang",
+                "Jiangying Qin"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00024"
+        },
+        {
+            "title": "DepthCue: Restoration of Underwater Images Using Monocular Depth as a Clue.",
+            "authors": [
+                "Chaitra Desai",
+                "Sujay Benur",
+                "Ramesh Ashok Tabib",
+                "Ujwala Patil",
+                "Uma Mudenagudi"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00025"
+        },
+        {
+            "title": "An Efficient Approach for Underwater Image Improvement: Deblurring, Dehazing, and Color Correction.",
+            "authors": [
+                "Alejandro Rico Espinosa",
+                "Declan McIntosh",
+                "Alexandra Branzan Albu"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00026"
+        },
+        {
+            "title": "SeaDroneSim: Simulation of Aerial Images for Detection of Objects Above Water.",
+            "authors": [
+                "Xiaomin Lin",
+                "Cheng Liu",
+                "Allen Pattillo",
+                "Miao Yu",
+                "Yiannis Aloimonos"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00027"
+        },
+        {
+            "title": "Sea ice classification with dual-polarized SAR imagery: a hierarchical pipeline.",
+            "authors": [
+                "Xinwei Chen",
+                "Katharine Andrea Scott",
+                "Mingzhe Jiang",
+                "Yuan Fang",
+                "Linlin Xu",
+                "David A. Clausi"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00028"
+        },
+        {
+            "title": "YOLOv7-sea: Object Detection of Maritime UAV Images based on Improved YOLOv7.",
+            "authors": [
+                "Hangyue Zhao",
+                "Hongpu Zhang",
+                "Yanyun Zhao"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00029"
+        },
+        {
+            "title": "A Novel Framework to Evaluate and Train Object Detection Models for Real-Time Victims Search and Rescue at Sea with Autonomous Unmanned Aerial Systems Using High-Fidelity Dynamic Marine Simulation Environment.",
+            "authors": [
+                "Rajeev Poudel",
+                "Luciano Netto de Lima",
+                "Fabio Augusto de Alcantara Andrade"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00030"
+        },
+        {
+            "title": "Sonar Image Composition for Semantic Segmentation Using Machine Learning.",
+            "authors": [
+                "William Ard",
+                "Corina Barbalata"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00031"
+        },
+        {
+            "title": "A Survey on the Deployability of Semantic Segmentation Networks for Fluvial Navigation.",
+            "authors": [
+                "Reeve Lambert",
+                "Jianwen Li",
+                "Jalil Chavez-Galaviz",
+                "Nina Mahmoudian"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00032"
+        },
+        {
+            "title": "1st Workshop on Maritime Computer Vision (MaCVi) 2023: Challenge Results.",
+            "authors": [
+                "Benjamin Kiefer",
+                "Matej Kristan",
+                "Janez Pers",
+                "Lojze Zust",
+                "Fabio Poiesi",
+                "Fabio Augusto de Alcantara Andrade",
+                "Alexandre Bernardino",
+                "Matthew Dawkins",
+                "Jenni Raitoharju",
+                "Yitong Quan",
+                "Adem Atmaca",
+                "Timon Höfer",
+                "Qiming Zhang",
+                "Yufei Xu",
+                "Jing Zhang",
+                "Dacheng Tao",
+                "Lars Sommer",
+                "Raphael Spraul",
+                "Hangyue Zhao",
+                "Hongpu Zhang",
+                "Yanyun Zhao",
+                "Jan Lukas Augustin",
+                "Eui-ik Jeon",
+                "Impyeong Lee",
+                "Luca Zedda",
+                "Andrea Loddo",
+                "Cecilia Di Ruberto",
+                "Sagar Verma",
+                "Siddharth Gupta",
+                "Shishir Muralidhara",
+                "Niharika Hegde",
+                "Daitao Xing",
+                "Nikolaos Evangeliou",
+                "Anthony Tzes",
+                "Vojtech Bartl",
+                "Jakub Spanhel",
+                "Adam Herout",
+                "Neelanjan Bhowmik",
+                "Toby P. Breckon",
+                "Shivanand Kundargi",
+                "Tejas Anvekar",
+                "Ramesh Ashok Tabib",
+                "Uma Mudengudi",
+                "Arpita Vats",
+                "Yang Song",
+                "Delong Liu",
+                "Yonglin Li",
+                "Shuman Li",
+                "Chenhao Tan",
+                "Long Lan",
+                "Vladimir Somers",
+                "Christophe De Vleeschouwer",
+                "Alexandre Alahi",
+                "Hsiang-Wei Huang",
+                "Cheng-Yen Yang",
+                "Jenq-Neng Hwang",
+                "Pyong-Kun Kim",
+                "Kwangju Kim",
+                "Kyoungoh Lee",
+                "Shuai Jiang",
+                "Haiwen Li",
+                "Zheng Ziqiang",
+                "Tuan-Anh Vu",
+                "Hai Nguyen-Truong",
+                "Sai-Kit Yeung",
+                "Zhuang Jia",
+                "Sophia Yang",
+                "Chih-Chung Hsu",
+                "Xiu-Yu Hou",
+                "Yu-An Jhang",
+                "Simon Yang",
+                "Mau-Tsuen Yang"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00033"
+        },
+        {
+            "title": "The Impact of Racial Distribution in Training Data on Face Recognition Bias: A Closer Look.",
+            "authors": [
+                "Manideep Kolla",
+                "Aravinth Savadamuthu"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00035"
+        },
+        {
+            "title": "Multi-IVE: Privacy Enhancement of Multiple Soft-Biometrics in Face Embeddings.",
+            "authors": [
+                "Pietro Melzi",
+                "Hatef Otroshi-Shahreza",
+                "Christian Rathgeb",
+                "Ruben Tolosana",
+                "Rubén Vera-Rodríguez",
+                "Julian Fiérrez",
+                "Sébastien Marcel",
+                "Christoph Busch"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00036"
+        },
+        {
+            "title": "Analyzing the Impact of Gender Misclassification on Face Recognition Accuracy.",
+            "authors": [
+                "Afi Edem Edi Gbekevi",
+                "Paloma Vela Achu",
+                "Gabriella Pangelinan",
+                "Michael C. King",
+                "Kevin W. Bowyer"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00037"
+        },
+        {
+            "title": "Causal Structure Learning of Bias for Fair Affect Recognition.",
+            "authors": [
+                "Jiaee Cheong",
+                "Sinan Kalkan",
+                "Hatice Gunes"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00038"
+        },
+        {
+            "title": "Masked Autoencoder for Self-Supervised Pre-training on Lidar Point Clouds.",
+            "authors": [
+                "Georg Hess",
+                "Johan Jaxing",
+                "Elias Svensson",
+                "David Hagerman",
+                "Christoffer Petersson",
+                "Lennart Svensson"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00039"
+        },
+        {
+            "title": "Benefits of Synthetically Pre-trained Depth-Prediction Networks for Indoor/Outdoor Image Classification.",
+            "authors": [
+                "Kelly X. Lin",
+                "Irene Cho",
+                "Amey Walimbe",
+                "Bryan A. Zamora",
+                "Alex Rich",
+                "Sirius Z. Zhang",
+                "Tobias Höllerer"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00040"
+        },
+        {
+            "title": "MixGen: A New Multi-Modal Data Augmentation.",
+            "authors": [
+                "Xiaoshuai Hao",
+                "Yi Zhu",
+                "Srikar Appalaraju",
+                "Aston Zhang",
+                "Wanqian Zhang",
+                "Bo Li",
+                "Mu Li"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00042"
+        },
+        {
+            "title": "Scalable and Accurate Self-supervised Multimodal Representation Learning without Aligned Video and Text Data.",
+            "authors": [
+                "Vladislav Lialin",
+                "Stephen Rawls",
+                "David Chan",
+                "Shalini Ghosh",
+                "Anna Rumshisky",
+                "Wael Hamza"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00043"
+        },
+        {
+            "title": "$k-\\text{NN}$ embeded space conditioning for enhanced few-shot object detection.",
+            "authors": [
+                "Stefan Matcovici",
+                "Daniel Voinea",
+                "Alin-Ionut Popa"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00044"
+        },
+        {
+            "title": "Test-time Adaptation vs. Training-time Generalization: A Case Study in Human Instance Segmentation using Keypoints Estimation.",
+            "authors": [
+                "Kambiz Azarian",
+                "Debasmit Das",
+                "Hyojin Park",
+                "Fatih Porikli"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00045"
+        },
+        {
+            "title": "Is Meta-Learning Always Necessary?: A Practical ML Framework Solving Novel Tasks at Large-scale Car Sharing Platform.",
+            "authors": [
+                "HyunHee Chung",
+                "Kyung Ho Park"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00046"
+        },
+        {
+            "title": "SOCAR: Socially-Obtained CAR Dataset for Image Recognition in the Wild.",
+            "authors": [
+                "Taewon Seo",
+                "Kyung Ho Park",
+                "HyunHee Chung"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00047"
+        },
+        {
+            "title": "MetaMax: Improved Open-Set Deep Neural Networks via Weibull Calibration.",
+            "authors": [
+                "Zongyao Lyu",
+                "Nolan B. Gutierrez",
+                "William J. Beksi"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00048"
+        },
+        {
+            "title": "Observation Centric and Central Distance Recovery for Athlete Tracking.",
+            "authors": [
+                "Hsiang-Wei Huang",
+                "Cheng-Yen Yang",
+                "Samartha Ramkumar",
+                "Chung-I Huang",
+                "Jenq-Neng Hwang",
+                "Pyong-Kun Kim",
+                "Kyoungoh Lee",
+                "Kwang-Ju Kim"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00050"
+        },
+        {
+            "title": "Accelerating AI using next-generation hardware: Possibilities and challenges with analog in-memory computing.",
+            "authors": [
+                "Marcus Valtonen Örnhag",
+                "Püren Güler",
+                "Dmitry Knyaginin",
+                "Mattias Borg"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00054"
+        },
+        {
+            "title": "Object-Ratio-Preserving Video Retargeting Framework based on Segmentation and Inpainting.",
+            "authors": [
+                "Jun-Gyu Jin",
+                "Jaehyun Bae",
+                "Han-Gyul Baek",
+                "Sang-Hyo Park"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00055"
+        },
+        {
+            "title": "Can Machines Learn to Map Creative Videos to Marketing Campaigns?",
+            "authors": [
+                "Jarod Wang",
+                "Chirag Mandaviya"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00056"
+        },
+        {
+            "title": "Face Image Quality Vector Assessment for Biometrics Applications.",
+            "authors": [
+                "Nima Najafzadeh",
+                "Hossein Kashiani",
+                "Mohammad Saeed Ebrahimi Saadabadi",
+                "Niloufar Alipour Talemi",
+                "Sahar Rahimi Malakshan",
+                "Nasser M. Nasrabadi"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00057"
+        },
+        {
+            "title": "Face image quality for actor profile image curation.",
+            "authors": [
+                "Yash Pandya",
+                "Abhinav Aggarwal",
+                "Manivel Sethu",
+                "Laxmi S. Ahire",
+                "Kaustav Nandy"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00058"
+        },
+        {
+            "title": "BAPose: Bottom-Up Pose Estimation with Disentangled Waterfall Representations.",
+            "authors": [
+                "Bruno Artacho",
+                "Andreas E. Savakis"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00059"
+        },
+        {
+            "title": "Image Quality Assessment using Semi-Supervised Representation Learning.",
+            "authors": [
+                "Vishnu Prabhakaran",
+                "Gokul Swamy"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00060"
+        },
+        {
+            "title": "Non Homogeneous Realistic Single Image Dehazing.",
+            "authors": [
+                "Vinay P",
+                "Abhisheka K. S",
+                "Lithesh Shetty",
+                "Kushal T. M",
+                "Shylaja S. S"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00061"
+        },
+        {
+            "title": "Subjective and Objective Video Quality Assessment of High Dynamic Range Sports Content.",
+            "authors": [
+                "Zaixi Shang",
+                "Yixu Chen",
+                "Yongjun Wu",
+                "Hai Wei",
+                "Sriram Sethuraman"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00062"
+        },
+        {
+            "title": "A Simple and Efficient method for Dubbed Audio Sync Detection using Compressive Sensing.",
+            "authors": [
+                "Avijit Vajpayee",
+                "Zhikang Zhang",
+                "Abhinav Jain",
+                "Vimal Bhat"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00063"
+        },
+        {
+            "title": "Self-Supervised Effective Resolution Estimation with Adversarial Augmentations.",
+            "authors": [
+                "Manuel Kansy",
+                "Julian Balletshofer",
+                "Jacek Naruniec",
+                "Christopher Schroers",
+                "Graziana Mignone",
+                "Markus H. Gross",
+                "Romann M. Weber"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00064"
+        },
+        {
+            "title": "CAD2Render: A Modular Toolkit for GPU-accelerated Photorealistic Synthetic Data Generation for the Manufacturing Industry.",
+            "authors": [
+                "Steven Moonen",
+                "Bram Vanherle",
+                "Joris de Hoog",
+                "Taoufik Bourgana",
+                "Abdellatif Bey-Temsamani",
+                "Nick Michiels"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00065"
+        },
+        {
+            "title": "Expanding Accurate Person Recognition to New Altitudes and Ranges: The BRIAR Dataset.",
+            "authors": [
+                "David Cornett III",
+                "Joel Brogan",
+                "Nell Barber",
+                "Deniz Aykac",
+                "Seth T. Baird",
+                "Nick Burchfield",
+                "Carl Dukes",
+                "Andrew Duncan",
+                "Regina Ferrell",
+                "Jim Goddard",
+                "Gavin Jager",
+                "Matt Larson",
+                "Bart Murphy",
+                "Christi Johnson",
+                "Ian Shelley",
+                "Nisha Srinivas",
+                "Brandon Stockwell",
+                "Leanne Thompson",
+                "Matt Yohe",
+                "Robert Zhang",
+                "Scott Dolvin",
+                "Hector J. Santos-Villalobos",
+                "David S. Bolme"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00066"
+        },
+        {
+            "title": "Long range gait matching using 3D body fitting with gait-specific motion constraints.",
+            "authors": [
+                "Maurício Pamplona Segundo",
+                "Cole Hill",
+                "Sudeep Sarkar"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00067"
+        },
+        {
+            "title": "Attentive Sensing for Long-Range Face Recognition.",
+            "authors": [
+                "Hélio Perroni Filho",
+                "Aleksander Trajcevski",
+                "Kartikeya Bhargava",
+                "Nizwa Javed",
+                "James H. Elder"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00068"
+        },
+        {
+            "title": "The Monocular Depth Estimation Challenge.",
+            "authors": [
+                "Jaime Spencer",
+                "C. Stella Qian",
+                "Chris Russell",
+                "Simon Hadfield",
+                "Erich W. Graf",
+                "Wendy J. Adams",
+                "Andrew J. Schofield",
+                "James H. Elder",
+                "Richard Bowden",
+                "Heng Cong",
+                "Stefano Mattoccia",
+                "Matteo Poggi",
+                "Zeeshan Khan Suri",
+                "Yang Tang",
+                "Fabio Tosi",
+                "Hao Wang",
+                "Youmin Zhang",
+                "Yusheng Zhang",
+                "Chaoqiang Zhao"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00069"
+        },
+        {
+            "title": "Face Forgery Detection Based on Facial Region Displacement Trajectory Series.",
+            "authors": [
+                "Yuyang Sun",
+                "Zhiyong Zhang",
+                "Isao Echizen",
+                "Huy H. Nguyen",
+                "Changzhen Qiu",
+                "Lu Sun"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00070"
+        },
+        {
+            "title": "Video Manipulations Beyond Faces: A Dataset with Human-Machine Analysis.",
+            "authors": [
+                "Trisha Mittal",
+                "Ritwik Sinha",
+                "Viswanathan Swaminathan",
+                "John P. Collomosse",
+                "Dinesh Manocha"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00071"
+        },
+        {
+            "title": "COLFISPOOF: A new Database for Contactless Fingerprint Presentation Attack Detection Research.",
+            "authors": [
+                "Jascha Kolberg",
+                "Jannis Priesnitz",
+                "Christian Rathgeb",
+                "Christoph Busch"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00072"
+        },
+        {
+            "title": "A Unified Model for Face Matching and Presentation Attack Detection using an Ensemble of Vision Transformer Features.",
+            "authors": [
+                "Rouqaiah Al-Refai",
+                "Karthik Nandakumar"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00073"
+        },
+        {
+            "title": "A Principal Component Analysis-Based Approach for Single Morphing Attack Detection.",
+            "authors": [
+                "Laurine Dargaud",
+                "Mathias Ibsen",
+                "Juan E. Tapia",
+                "Christoph Busch"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00075"
+        },
+        {
+            "title": "Finger-NestNet: Interpretable Fingerphoto Verification on Smartphone using Deep Nested Residual Network.",
+            "authors": [
+                "Raghavendra Ramachandra",
+                "Hailin Li"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00076"
+        },
+        {
+            "title": "Human Saliency-Driven Patch-based Matching for Interpretable Post-mortem Iris Recognition.",
+            "authors": [
+                "Aidan Boyd",
+                "Daniel Moreira",
+                "Andrey Kuehlkamp",
+                "Kevin W. Bowyer",
+                "Adam Czajka"
+            ],
+            "doi": "https://doi.org/10.1109/WACVW58289.2023.00077"
+        }
+    ]
+}

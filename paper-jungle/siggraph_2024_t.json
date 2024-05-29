@@ -1,0 +1,569 @@
+{
+    "data": [
+    {
+        "title": "Towards Motion Metamers for Foveated Rendering",
+        "authors": [
+            "Taimoor Tariq",
+            "Piotr Didyk"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Cyclogenesis: Simulating Hurricanes and Tornadoes",
+        "authors": [
+            "Jorge Alejandro Amador Herrera",
+            "Jonathan Klein",
+            "Daoming Liu",
+            "Wojtek Palubicki",
+            "Soren Pirk",
+            "Dominik Michels"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Scintilla: Simulating Combustible Vegetation for Wildfires",
+        "authors": [
+            "Andrzej Kokosza",
+            "Helge Wrede",
+            "Daniel Gonzalez Esparza",
+            "Milosz Makowski",
+            "Daoming Liu",
+            "Dominik Michels",
+            "Soren Pirk",
+            "Wojtek Palubicki"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Interactive Invigoration: Volumetric Modeling of Trees with Strands",
+        "authors": [
+            "Bosheng Li",
+            "Nikolas A. Schwarz",
+            "Wojtek Palubicki",
+            "Soren Pirk",
+            "Bedrich Benes"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns",
+        "authors": [
+            "Arman Maesumi",
+            "Dylan Hu",
+            "Krishi Saripalli",
+            "Vladimir G. Kim",
+            "Matthew Fisher",
+            "Soren Pirk",
+            "Daniel Ritchie"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Alignment conditions for NURBS-based design of mixed tension-compression grid shells",
+        "authors": [
+            "Masaaki Miki",
+            "Toby Mitchell"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Spin-It Faster: Quadrics Solve All Topology Optimization Problems That Depend Only On Mass Moments",
+        "authors": [
+            "Christian Hafner",
+            "Mickael Ly",
+            "Chris Wojtan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Multi-Material Mesh-Based Surface Tracking with Implicit Topology Changes",
+        "authors": [
+            "Peter Heiss-Synak",
+            "Aleksei Kalinov",
+            "Malina Strugaru",
+            "Arian Etemadi",
+            "Huidong Yang",
+            "Chris Wojtan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Going with the Flow",
+        "authors": [
+            "Yousuf Soliman",
+            "Marcel Padilla",
+            "Oliver Gross",
+            "Felix Knoppel",
+            "Ulrich Pinkall",
+            "Peter Schroder"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Neural Slicer for Multi-Axis 3D Printing",
+        "authors": [
+            "Tao Liu",
+            "Tianyu Zhang",
+            "Yongxue Chen",
+            "Yuming Huang",
+            "Charlie C.L. Wang"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models",
+        "authors": [
+            "Yuqing Zhang",
+            "Yuan Liu",
+            "Zhiyu Xie",
+            "Lei Yang",
+            "Zhongyuan Liu",
+            "Mengzhou Yang",
+            "Runze Zhang",
+            "Qilong Kou",
+            "Cheng Lin",
+            "Wenping Wang",
+            "Xiaogang Jin"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
+        "authors": [
+            "Yiqian Wu",
+            "Hao Xu",
+            "Xiangjun Tang",
+            "Xien Chen",
+            "Siyu Tang",
+            "Zhebin Zhang",
+            "Chen Li",
+            "Xiaogang Jin"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "SketchDream: Sketch-based Text-to-3D Generation and Editing",
+        "authors": [
+            "Feng-Lin Liu",
+            "Hongbo Fu",
+            "Yu-Kun Lai",
+            "Lin Gao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Toonify3D: StyleGAN-based 3D Stylized Face Generator",
+        "authors": [
+            "Wonjong Jang",
+            "Yucheol Jung",
+            "Hyomin Kim",
+            "Gwangjin Ju",
+            "Chaewon Son",
+            "Jooeun Son",
+            "Seungyong Lee"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Deep Hybrid Camera Deblurring for Smartphone Cameras",
+        "authors": [
+            "Jaesung Rim",
+            "Junyong Lee",
+            "Heemin Yang",
+            "Sunghyun Cho"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "3Doodle: Compact Abstraction of Objects with 3D Strokes",
+        "authors": [
+            "Changwoon Choi",
+            "Jaeah Lee",
+            "Jaesik Park",
+            "Young Min Kim"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Progressive Dynamics for Cloth and Shell Animation",
+        "authors": [
+            "Jiayi Eris Zhang",
+            "Doug L. James",
+            "Danny M. Kaufman"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Stylized Rendering as a Function of Expectation",
+        "authors": [
+            "Rex West",
+            "Sayan Mukherjee"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Spin-Weighted Spherical Harmonics for Polarized Light Transport",
+        "authors": [
+            "Shinyoung Yi",
+            "Donggun Kim",
+            "Jiwoong Na",
+            "Xin Tong",
+            "Min H. Kim"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Stochastic Computation of Barycentric Coordinates",
+        "authors": [
+            "Fernando de Goes",
+            "Mathieu Desbrun"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Kinetic Simulation of Turbulent Multifluid Flows",
+        "authors": [
+            "Wei Li",
+            "Kui Wu",
+            "Mathieu Desbrun"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Lightning-fast Method of Fundamental Solutions",
+        "authors": [
+            "Jiong Chen",
+            "Florian Schafer",
+            "Mathieu Desbrun"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Biharmonic Coordinates and their Derivatives for Triangular",
+        "authors": [
+            "Jean Thiery",
+            "Elie Michel",
+            "Jiong Chen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Fabric Tessellation: Realizing Freeform Surfaces by Smocking",
+        "authors": [
+            "Aviv Segall",
+            "Jing Ren",
+            "Amir Vaxman",
+            "Olga Sorkine-Hornung"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "TexSliders: Diffusion-Based Texture Editing in CLIP Space",
+        "authors": [
+            "Julia Guerrero-Viu",
+            "Milos Hasan",
+            "Arthur Roullier",
+            "Midhun Harikumar",
+            "Yiwei Hu",
+            "Paul Guerrero",
+            "Diego Gutierrez",
+            "Belen Masia",
+            "Valentin Deschaintre"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Free-Space Diffraction BSDF",
+        "authors": [
+            "Shlomi Steinberg",
+            "Ravi Ramamoorthi",
+            "Benedikt Bitterli",
+            "Arshiya Mollazainali",
+            "Eugene d'Eon",
+            "Matt Pharr"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Real-Time Path Guiding Using Bounding Voxel Sampling",
+        "authors": [
+            "Haolin Lu",
+            "Wesley Chang",
+            "Trevor Hedstrom",
+            "Tzu-Mao Li"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Temporally Stable Metropolis Light Transport Denoising using Recurrent Transformer Blocks",
+        "authors": [
+            "Chuhao Chen",
+            "Yuze He",
+            "Tzu-Mao Li"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Zero Grads: Learning Local Surrogate Losses for Non-Differentiable Graphics",
+        "authors": [
+            "Michael Fischer",
+            "Tobias Ritschel"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Area ReSTIR: Resampling for Real-Time Defocus and Antialiasing",
+        "authors": [
+            "Song Zhang",
+            "Daqi Lin",
+            "Markus Kettunen",
+            "Cem Yuksel",
+            "Chris Wyman"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Fully-correlated Anisotropic Micrograin BSDF Model",
+        "authors": [
+            "Simon Lucas",
+            "Mickael Ribardiere",
+            "Romain Pacanowski",
+            "Pascal Barla"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "RGB ↔ X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models",
+        "authors": [
+            "Zheng Zeng",
+            "Valentin Deschaintre",
+            "Iliyan Georgiev",
+            "Yannick Hold-Geoffroy",
+            "Yiwei Hu",
+            "Fujun Luan",
+            "Lingqi Yan",
+            "Milos Hasan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Blue noise for diffusion models",
+        "authors": [
+            "Xingchang Huang",
+            "Corentin Salaun",
+            "Cristina Vasconcelos",
+            "Christian Theobalt",
+            "Cengiz Oztireli",
+            "Gurprit Singh"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Navigation-Driven Approximate Convex Decomposition",
+        "authors": [
+            "James Andrews"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Primal-Dual Non-Smooth Friction for Rigid Body Animation",
+        "authors": [
+            "Yi-Lu Chen",
+            "Mickael Ly",
+            "Chris Wojtan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Quad-Optimized Low-Discrepancy Sequences",
+        "authors": [
+            "Victor Ostromoukhov",
+            "Nicolas Bonneel",
+            "David Coeurjolly",
+            "Jean-Claude Iehl"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Mob-FGSR: Frame Generation and Super Resolution for Mobile Real-Time Rendering",
+        "authors": [
+            "Sipeng Yang",
+            "Qingchuan Zhu",
+            "Junhao Zhuge",
+            "Qiang Qiu",
+            "Chen Li",
+            "Yuzhong Yan",
+            "Huihui Xu",
+            "Ling-Qi Yan",
+            "Xiaogang Jin"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Rip-NeRF: Anti-aliasing Radiance Fields with Ripmap-Encoded Platonic Solids",
+        "authors": [
+            "Junchen Liu",
+            "Wenbo Hu",
+            "Zhuo Yang",
+            "Jianteng Chen",
+            "Guoliang Wang",
+            "Xiaoxue Chen",
+            "Yantong Cai",
+            "Huan-ang Gao",
+            "Hao Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Velocity-Based Monte Carlo Fluids",
+        "authors": [
+            "Ryusuke Sugimoto",
+            "Christopher Batty",
+            "Toshiya Hachisuka"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Differential Monte Carlo Solver For the Poisson Equation",
+        "authors": [
+            "Zihan Yu",
+            "Lifan Wu",
+            "Zhiqian Zhou",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "NeRF As A Non-Distant Environment Emitter in Physics-Based Inverse Rendering",
+        "authors": [
+            "Jingwang Ling",
+            "Ruihan Yu",
+            "Feng Xu",
+            "Chun Du",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Path-Space Differentiable Rendering of Implicit Surfaces",
+        "authors": [
+            "Siwei Zhou",
+            "Youngha Chang",
+            "Nobuhiko Mukai",
+            "Hiroaki Santo",
+            "Fumio Okura",
+            "Yasuyuki Matsushita",
+            "Shuang Zhao"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Practical Error Estimation for Denoised Monte Carlo Image Synthesis",
+        "authors": [
+            "Arthur Firmino",
+            "Ravi Ramamoorthi",
+            "Jeppe Revall Frisvad",
+            "Henrik Wann Jensen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Neural Geometry Fields For Meshes",
+        "authors": [
+            "Venkataram Sivaram",
+            "Ravi Ramamoorthi",
+            "Tzu-Mao Li"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "A Construct-Optimize Approach to Sparse View Synthesis without Camera Pose",
+        "authors": [
+            "Kaiwen Jiang",
+            "Yang Fu",
+            "Mukund Varma T",
+            "Yash Belhe",
+            "Xiaolong Wang",
+            "Hao Su",
+            "Ravi Ramamoorthi"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "N-BVH: Neural ray queries with bounding volume hierarchies",
+        "authors": [
+            "Philippe Weier",
+            "Alexander Rath",
+            "Elie Michel",
+            "Iliyan Georgiev",
+            "Philipp Slusallek",
+            "Tamy Boubekeur"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Self-Supervised Video Defocus Deblurring with Atlas Learning",
+        "authors": [
+            "Lingyan Ruan",
+            "Martin Balint",
+            "Mojtaba Bemana",
+            "Krzysztof Wolski",
+            "Hans-Peter Seidel",
+            "Karol Myszkowski",
+            "Bin Chen"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Diffusion Texture Painting",
+        "authors": [
+            "Anita Hu",
+            "Nishkrit Desai",
+            "Hassan Abu Alhaija",
+            "Seung Wook Kim",
+            "Masha Shugrina"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Neural Bounding",
+        "authors": [
+            "Stephanie Wenxin Liu",
+            "Michael Fischer",
+            "Paul D. Yoo",
+            "Tobias Ritschel"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "Fabricable 3D Wire Art",
+        "authors": [
+            "Kenji Tojo",
+            "Ariel Shamir",
+            "Bernd Bickel",
+            "Nobuyuki Umetani"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
+        "authors": [
+            "Stavros Diolatzis",
+            "Tobias Zirr",
+            "Alexandr Kuznetsov",
+            "Georgios Kopanas",
+            "Anton Kaplanyan"
+        ],
+        "doi": "DOI not found"
+    },
+    {
+        "title": "SMEAR: Stylized Motion Exaggeration with ARt-direction",
+        "authors": [
+            "Jean Basset",
+            "Pierre Benard",
+            "Pascal Barla"
+        ],
+        "doi": "DOI not found"
+    }
+]
+}
