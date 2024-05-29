@@ -229,11 +229,11 @@
             }
 
             function filterPapers() {
-                const titleQuery = titleFilterInput.value.toLowerCase();
+                const titleQueries = titleFilterInput.value.toLowerCase().split(',').map(tag => tag.trim()).filter(tag => tag);
                 const excludeQuery = excludeFilterInput.value.toLowerCase().split(',').map(keyword => keyword.trim()).filter(keyword => keyword);
 
                 const filteredPapers = allPapers.filter(paper => {
-                    const titleMatch = paper.title.toLowerCase().includes(titleQuery);
+                    const titleMatch = titleQueries.every(query => paper.title.toLowerCase().includes(query));
                     const excludeMatch = excludeQuery.some(exclude => paper.title.toLowerCase().includes(exclude));
                     return titleMatch && !excludeMatch;
                 });
