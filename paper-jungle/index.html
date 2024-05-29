@@ -237,7 +237,6 @@
                     const excludeMatch = excludeQuery.some(exclude => paper.title.toLowerCase().includes(exclude));
                     return titleMatch && !excludeMatch;
                 });
-                console.log(filteredPapers);
                 renderPapers(filteredPapers);
             }
 
