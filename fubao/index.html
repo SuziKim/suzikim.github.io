@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fubao game</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #startScreen, #gameOverScreen {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background: white;
+            padding: 20px;
+            border: 2px solid black;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+        }
+        #startImage, #gameOverImage {
+            width: 250px;
+            height: auto;
+        }
+        #startButton, #newGameButton {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        #gameCanvas {
+            display: none;
+            border: 2px solid black;
+            background-color: #e6ffe6;
+        }
+    </style>
+</head>
+<body>
+    <!-- 배경 음악 -->
+    <audio id="bgm" loop>
+        <source src="https://www.dropbox.com/scl/fi/5rw735inoq32ex12p9kgp/40.mp3?rlkey=ru64deefob3qb44jdrau509p0&st=5yozo3fi&dl=1" type="audio/mpeg">
+    </audio>
+
+    <!-- 시작 화면 -->
+    <div id="startScreen">
+        <img id="startImage" src="https://i.imgur.com/iFCuxOC.jpeg" alt="Start Image">
+        <br>
+        <button id="startButton">Game Start</button>
+    </div>
+
+    <!-- 게임 화면 -->
+    <canvas id="gameCanvas" width="300" height="450"></canvas>
+
+    <!-- 게임 오버 화면 -->
+    <div id="gameOverScreen" style="display: none;">
+        <img id="gameOverImage" src="https://i.imgur.com/2aT3aL4.jpeg" alt="Game Clear">
+        <h2> </h2>
+        <button id="newGameButton">New Game</button>
+    </div>
+
+    <script>
+        const startScreen = document.getElementById("startScreen");
+        const startButton = document.getElementById("startButton");
+        const gameCanvas = document.getElementById("gameCanvas");
+        const ctx = gameCanvas.getContext("2d");
+        const gameOverScreen = document.getElementById("gameOverScreen");
+        const newGameButton = document.getElementById("newGameButton");
+        const bgm = document.getElementById("bgm");
+
+        // 자동 재생 보장
+        function playBGM() {
+            bgm.volume = 0.5; // 볼륨 조절 (0.0 ~ 1.0)
+            bgm.play().catch(error => {
+                console.log("자동 재생 차단됨:", error);
+            });
+        }
+
+        startButton.addEventListener("click", () => {
+            startScreen.style.display = "none";
+            gameCanvas.style.display = "block";
+            playBGM(); // 게임 시작 시 BGM 재생
+            resetGame();
+        });
+
+        newGameButton.addEventListener("click", () => {
+            playBGM(); // 새 게임 시작 시 BGM 재생
+            resetGame();
+        });
+
+        // 게임 관련 로직 (이미지 로드 및 캐릭터 이동)
+        const pandaImg = new Image();
+        pandaImg.src = "https://i.imgur.com/L3zu3J4.png"; // 판다 이미지
+
+        const images = {
+            "사과": "https://i.imgur.com/ovh9iRz.png",
+            "죽순": "https://i.imgur.com/cinGMOy.png",
+            "워토우": "https://i.imgur.com/YRbiO7g.png",
+            "고구마": "https://i.imgur.com/vu8RbJ4.png"
+        };
+
+        const itemImages = {};
+        for (const key in images) {
+            itemImages[key] = new Image();
+            itemImages[key].src = images[key];
+        }
+
+        const panda = { x: gameCanvas.width / 2 - 25, y: gameCanvas.height - 60, width: 50, height: 50, speed: 5 };
+        const items = [];
+        const maxItems = 5;
+        let score = 0;
+        let gameRunning = true;
+
+        const itemTypes = [
+            { name: "사과", points: 20 },
+            { name: "죽순", points: 10 },
+            { name: "워토우", points: 30 },
+            { name: "고구마", points: -50 }
+        ];
+
+        function createItem() {
+            let type = itemTypes[Math.floor(Math.random() * itemTypes.length)];
+            return {
+                x: Math.random() * (gameCanvas.width - 50),
+                y: 0,
+                radius: 20,
+                speed: 1 + Math.random(),
+                name: type.name,
+                points: type.points
+            };
+        }
+
+        function resetGame() {
+            score = 0;
+            gameRunning = true;
+            gameOverScreen.style.display = "none";
+            items.length = 0;
+            for (let i = 0; i < maxItems; i++) {
+                items.push(createItem());
+            }
+            gameLoop();
+        }
+
+        function drawPanda() {
+            ctx.drawImage(pandaImg, panda.x, panda.y, panda.width, panda.height);
+        }
+
+        function drawItems() {
+            items.forEach(item => {
+                ctx.drawImage(itemImages[item.name], item.x, item.y, item.radius * 2, item.radius * 2);
+            });
+        }
+
+        function drawScore() {
+            ctx.fillStyle = "#000000";
+            ctx.font = "20px Arial";
+            ctx.fillText("Score: " + score, 10, 30);
+        }
+
+        function movePanda() {
+            if (keys['ArrowLeft'] && panda.x > 0) {
+                panda.x -= panda.speed;
+            }
+            if (keys['ArrowRight'] && panda.x + panda.width < gameCanvas.width) {
+                panda.x += panda.speed;
+            }
+        }
+
+        let keys = {};
+        window.addEventListener('keydown', (e) => { keys[e.key] = true; });
+        window.addEventListener('keyup', (e) => { keys[e.key] = false; });
+
+        gameCanvas.addEventListener("touchmove", (e) => {
+            const touchX = e.touches[0].clientX;
+            panda.x = touchX - gameCanvas.getBoundingClientRect().left - panda.width / 2;
+            if (panda.x < 0) panda.x = 0;
+            if (panda.x + panda.width > gameCanvas.width) panda.x = gameCanvas.width - panda.width;
+            e.preventDefault();
+        });
+
+        function updateItems() {
+            if (!gameRunning) return;
+            items.forEach(item => {
+                item.y += item.speed;
+                if (item.y > gameCanvas.height) {
+                    item.y = 0;
+                    item.x = Math.random() * (gameCanvas.width - item.radius * 2);
+                }
+                const dx = panda.x + panda.width / 2 - item.x;
+                const dy = panda.y + panda.height / 2 - item.y;
+                if (Math.sqrt(dx * dx + dy * dy) < panda.width / 2 + item.radius) {
+                    score += item.points;
+                    item.y = 0;
+                }
+            });
+
+            if (score >= 720) {
+                gameRunning = false;
+                gameOverScreen.style.display = "block";
+            }
+        }
+
+        function gameLoop() {
+            if (!gameRunning) return;
+            ctx.clearRect(0, 0, gameCanvas.width, gameCanvas.height);
+            movePanda();
+            updateItems();
+            drawPanda();
+            drawItems();
+            drawScore();
+            requestAnimationFrame(gameLoop);
+        }
+    </script>
+</body>
+</html>
