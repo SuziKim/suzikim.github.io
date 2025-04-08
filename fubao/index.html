@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Fubao game</title>
     <style>
         body {
@@ -41,6 +42,12 @@
             border: 2px solid black;
             background-color: #e6ffe6;
         }
+        #production {
+            font-size: small;
+            position: absolute;
+            top: 50%;
+            transform: translate(0%, 250px);
+        }
     </style>
 </head>
 <body>
@@ -65,7 +72,9 @@
         <h2> </h2>
         <button id="newGameButton">New Game</button>
     </div>
-
+    <div id="production">
+        제작: <a href="https://www.instagram.com/soombao/"><i class="fa fa-instagram" style="font-size:15px;color:red"></i>숨바오</a>
+    </div>
     <script>
         const startScreen = document.getElementById("startScreen");
         const startButton = document.getElementById("startButton");
